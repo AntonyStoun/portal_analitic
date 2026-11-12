@@ -1,0 +1,2558 @@
+﻿[
+    {
+        "unit":  "Causeni",
+        "name":  "Cainari",
+        "site":  "https://primariacainari.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Ora?ului Cainari - Site Official»"
+    },
+    {
+        "unit":  "Criuleni",
+        "name":  "Criuleni",
+        "site":  "https://primaria-criuleni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "заменён районный совет https://criuleni.md/ ; Acasă | Primăria Criuleni"
+    },
+    {
+        "unit":  "Ocnita",
+        "name":  "Otaci",
+        "site":  "https://otaci.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Ora?ul Otaci | Pagina web oficiala a Primariei»"
+    },
+    {
+        "unit":  "Singerei",
+        "name":  "Biruinta",
+        "site":  "https://biruinta.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Biruinta | Pagina web oficiala a ora?»"
+    },
+    {
+        "unit":  "Comrat",
+        "name":  "Comrat",
+        "site":  "https://comrat.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «�ਬ��� ��. �����»"
+    },
+    {
+        "unit":  "Chisinau",
+        "name":  "Durlesti",
+        "site":  "https://durlesti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria orasului Durlesti»"
+    },
+    {
+        "unit":  "Orhei",
+        "name":  "Putintei",
+        "site":  "https://primaria-putintei.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Pu?intei | Pagina web oficiala a Prim»"
+    },
+    {
+        "unit":  "Glodeni",
+        "name":  "Balatina",
+        "site":  "https://balatina.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Balatina»"
+    },
+    {
+        "unit":  "Falesti",
+        "name":  "Scumpia",
+        "site":  "https://primariascumpia.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Comunei Scumpia r-nul Fale?ti»"
+    },
+    {
+        "unit":  "Floresti",
+        "name":  "Cuhurestii de Sus",
+        "site":  "https://primariacuhurestiidesus.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Cuhure?tii de Sus | Pagina web oficia»"
+    },
+    {
+        "unit":  "Nisporeni",
+        "name":  "Bratuleni",
+        "site":  "https://primariabratuleni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Bratuleni | Pagina web oficiala a Pri»"
+    },
+    {
+        "unit":  "Hincesti",
+        "name":  "Ivanovca",
+        "site":  "https://primariaivanovca.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Ivanovca | Pagina web oficiala a Prim»"
+    },
+    {
+        "unit":  "Soldanesti",
+        "name":  "Dobrusa",
+        "site":  "https://primariadobrusa.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria comunei Dobru?a | Pagina oficiala a C»"
+    },
+    {
+        "unit":  "Stefan Voda",
+        "name":  "Purcari",
+        "site":  "https://purcari.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «PrincipalA? - Purcari Wineries Purcari Winerie»"
+    },
+    {
+        "unit":  "Soroca",
+        "name":  "Schineni",
+        "site":  "https://primariaschineni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Schineni | Pagina web oficiala a Prim»"
+    },
+    {
+        "unit":  "Soroca",
+        "name":  "Volovita",
+        "site":  "https://primariavolovita.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Volovi?a | Pagina web oficiala a Prim»"
+    },
+    {
+        "unit":  "Soroca",
+        "name":  "Vadeni",
+        "site":  "https://primariavadeni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Vadeni | Pagina web oficiala a Primar»"
+    },
+    {
+        "unit":  "Cimislia",
+        "name":  "Gradiste",
+        "site":  "https://primariagradiste.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Gradiste, r-nul Cimi?lia | Pagina web»"
+    },
+    {
+        "unit":  "Briceni",
+        "name":  "Larga",
+        "site":  "https://larga.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria comunei Larga | Pagina web oficiala a»"
+    },
+    {
+        "unit":  "Causeni",
+        "name":  "Ucrainca",
+        "site":  "https://primariaucrainca.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Ucrainca | Pagina web oficiala a Prim»"
+    },
+    {
+        "unit":  "Cantemir",
+        "name":  "Lingura",
+        "site":  "https://primarialingura.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Lingura | Pagina web oficiala a prima»"
+    },
+    {
+        "unit":  "Causeni",
+        "name":  "Zaim",
+        "site":  "https://zaim.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria comunei Zaim | Pagina web oficiala a»"
+    },
+    {
+        "unit":  "Donduseni",
+        "name":  "Frasin",
+        "site":  "https://primariafrasin.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Frasin | Pagina web oficiala a Primar»"
+    },
+    {
+        "unit":  "Criuleni",
+        "name":  "Miclesti",
+        "site":  "https://primariamiclesti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria comunei Micle?ti | Pagina web oficial»"
+    },
+    {
+        "unit":  "Donduseni",
+        "name":  "Sudarca",
+        "site":  "https://primariasudarca.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Sudarca | Pagina web oficiala a Prima»"
+    },
+    {
+        "unit":  "Edinet",
+        "name":  "Parcova",
+        "site":  "https://primariaparcova.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Parcova | Pagina web oficiala a Prima»"
+    },
+    {
+        "unit":  "Edinet",
+        "name":  "Ruseni",
+        "site":  "https://primariaruseni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria comunei Ruseni | Pagina web oficiala»"
+    },
+    {
+        "unit":  "Edinet",
+        "name":  "Hincauti",
+        "site":  "https://primariahincauti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Hincauti | Pagina web oficiala a Prim»"
+    },
+    {
+        "unit":  "Chisinau",
+        "name":  "Tohatin",
+        "site":  "https://tohatin.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Tohatin \u0026#8211; Chisinau, Moldova»"
+    },
+    {
+        "unit":  "Calarasi",
+        "name":  "Bahmut",
+        "site":  "https://primariabahmut.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Bahmut | Pagina web oficiala a Primar»"
+    },
+    {
+        "unit":  "Cantemir",
+        "name":  "Stoianovca",
+        "site":  "https://stoianovca.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «»"
+    },
+    {
+        "unit":  "Calarasi",
+        "name":  "Paulesti",
+        "site":  "https://paulesti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Paule?ti»"
+    },
+    {
+        "unit":  "Cahul",
+        "name":  "Slobozia Mare",
+        "site":  "https://primariasloboziamare.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Acasa - Primaria Slobozia Mare»"
+    },
+    {
+        "unit":  "Briceni",
+        "name":  "Balasinesti",
+        "site":  "https://primariabalasinesti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Balasine?ti | Pagina web oficiala a P»"
+    },
+    {
+        "unit":  "Telenesti",
+        "name":  "Ciulucani",
+        "site":  "https://ciulucani.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «»"
+    },
+    {
+        "unit":  "Comrat",
+        "name":  "Gaidar",
+        "site":  "https://gaidar.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «������� - ���� ������»"
+    },
+    {
+        "unit":  "Soldanesti",
+        "name":  "Cusmirca",
+        "site":  "https://primariacusmirca.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Cusmirca | Pagina web oficiala a Prim»"
+    },
+    {
+        "unit":  "Straseni",
+        "name":  "Romanesti",
+        "site":  "https://primariaromanesti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Romanesti | Pagina web oficiala a Pri»"
+    },
+    {
+        "unit":  "Straseni",
+        "name":  "Vorniceni",
+        "site":  "https://vorniceni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria satului Vorniceni \u0026#8211; Raionul Str»"
+    },
+    {
+        "unit":  "Briceni",
+        "name":  "Tetcani",
+        "site":  "https://primariatetcani.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Tetcani, Briceni | Pagina web oficial»"
+    },
+    {
+        "unit":  "Stefan Voda",
+        "name":  "Popeasca",
+        "site":  "https://popeasca.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «»"
+    },
+    {
+        "unit":  "Hincesti",
+        "name":  "Nemteni",
+        "site":  "https://primarianemteni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Nemteni | Pagina web oficiala a Prima»"
+    },
+    {
+        "unit":  "Ialoveni",
+        "name":  "Carbuna",
+        "site":  "https://carbuna.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «»"
+    },
+    {
+        "unit":  "Edinet",
+        "name":  "Hancauti",
+        "site":  "https://primariahancauti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Hancauti, r-nul Edine? | Pagina web o»"
+    },
+    {
+        "unit":  "Hincesti",
+        "name":  "Caracui",
+        "site":  "https://primariacaracui.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Caracui | Pagina web oficiala a Prima»"
+    },
+    {
+        "unit":  "Glodeni",
+        "name":  "Cobani",
+        "site":  "https://cobani.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «»"
+    },
+    {
+        "unit":  "Tiraspol",
+        "name":  "Butuceni",
+        "site":  "https://butuceni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Eco Resort Butuceni \u0026#8211; Case tradi?ionale,»"
+    },
+    {
+        "unit":  "Causeni",
+        "name":  "Salcuta",
+        "site":  "https://primariasalcuta.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria Salcu?a | Site-ul oficial al Primarie»"
+    },
+    {
+        "unit":  "Rezina",
+        "name":  "Mateuti",
+        "site":  "https://mateuti.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «»"
+    },
+    {
+        "unit":  "Causeni",
+        "name":  "Copanca",
+        "site":  "https://copanca.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «»"
+    },
+    {
+        "unit":  "Donduseni",
+        "name":  "Cernoleuca",
+        "site":  "https://cernoleuca.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «s. Cernoleuca, Donduseni»"
+    },
+    {
+        "unit":  "Orhei",
+        "name":  "Zahoreni",
+        "site":  "https://zahoreni.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «»"
+    },
+    {
+        "unit":  "Orhei",
+        "name":  "Teleseu",
+        "site":  "https://teleseu.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «Primaria satului Tele?eu»"
+    },
+    {
+        "unit":  "Criuleni",
+        "name":  "Mascauti",
+        "site":  "https://mascauti.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_0.log: заголовок «s. Mascauti, Criuleni»"
+    },
+    {
+        "unit":  "Ungheni",
+        "name":  "Ungheni",
+        "site":  "https://ungheni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Ungheni | Pagina web oficiala a Primariei ora?»"
+    },
+    {
+        "unit":  "Riscani",
+        "name":  "Riscani",
+        "site":  "https://riscani.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Ora?ul Ri?cani»"
+    },
+    {
+        "unit":  "Singerei",
+        "name":  "Singerei",
+        "site":  "https://primariasingerei.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "заменён районный совет https://singerei.md/ ; Prima pagină - Primăria or. Sângerei"
+    },
+    {
+        "unit":  "Edinet",
+        "name":  "Edinet",
+        "site":  "https://primariaedinet.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Municipiului Edinet \u0026#8211; Site-ul o»"
+    },
+    {
+        "unit":  "Floresti",
+        "name":  "Floresti",
+        "site":  "https://primariafloresti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "заменён районный совет https://floresti.md/ ; Primăria Florești | Pagina web oficială a primăriei Florești"
+    },
+    {
+        "unit":  "Nisporeni",
+        "name":  "Siscani",
+        "site":  "https://primariasiscani.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria ?i?cani | Pagina web oficiala a Prima»"
+    },
+    {
+        "unit":  "Ocnita",
+        "name":  "Lipnic",
+        "site":  "https://primarialipnic.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Lipnic | Pagina web oficiala a Primar»"
+    },
+    {
+        "unit":  "Orhei",
+        "name":  "Vatici",
+        "site":  "https://primariavatici.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Vatici | Pagina web oficiala a Primar»"
+    },
+    {
+        "unit":  "Orhei",
+        "name":  "Pelivan",
+        "site":  "https://primariapelivan.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria comunei Pelivan | Pagina web oficiala»"
+    },
+    {
+        "unit":  "Floresti",
+        "name":  "Vascauti",
+        "site":  "https://primariavascauti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Vascauti | Pagina web oficiala a Prim»"
+    },
+    {
+        "unit":  "Nisporeni",
+        "name":  "Bolduresti",
+        "site":  "https://primariabolduresti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Boldure?ti | Site oficial - Informa?i»"
+    },
+    {
+        "unit":  "Hincesti",
+        "name":  "Lapusna",
+        "site":  "https://primarialapusna.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Lapu?na | Pagina web oficiala a Prima»"
+    },
+    {
+        "unit":  "Soldanesti",
+        "name":  "Cotiujenii Mari",
+        "site":  "https://primariacotiujeniimari.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Cotiujenii Mari, r-nul ?oldane?ti | P»"
+    },
+    {
+        "unit":  "Ungheni",
+        "name":  "Manoilesti",
+        "site":  "https://manoilesti.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «c. Manoilesti, Ungheni»"
+    },
+    {
+        "unit":  "Ungheni",
+        "name":  "Hircesti",
+        "site":  "https://primariahircesti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Hirce?ti, Ungheni | Pagina web oficia»"
+    },
+    {
+        "unit":  "Singerei",
+        "name":  "Iezarenii Vechi",
+        "site":  "https://primariaiezareniivechi.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Iezarenii Vechi | Pagina web oficiala»"
+    },
+    {
+        "unit":  "Singerei",
+        "name":  "Grigorauca",
+        "site":  "https://primariagrigorauca.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Grigorauca | Pagina web Oficiala a Pr»"
+    },
+    {
+        "unit":  "Drochia",
+        "name":  "Suri",
+        "site":  "https://suri.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «»"
+    },
+    {
+        "unit":  "Cimislia",
+        "name":  "Javgur",
+        "site":  "https://primariajavgur.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Javguar | Pagina web Oficiala a Prima»"
+    },
+    {
+        "unit":  "Cantemir",
+        "name":  "Chioselia",
+        "site":  "https://primariachioselia.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Chioselia | Pagina web oficiala a Pri»"
+    },
+    {
+        "unit":  "Cahul",
+        "name":  "Manta",
+        "site":  "https://manta.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «c. Manta, Cahul»"
+    },
+    {
+        "unit":  "Chisinau",
+        "name":  "Budesti",
+        "site":  "https://budesti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria | Comunei Bude?ti»"
+    },
+    {
+        "unit":  "Calarasi",
+        "name":  "Tuzara",
+        "site":  "https://tuzara.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «»"
+    },
+    {
+        "unit":  "Calarasi",
+        "name":  "Dereneu",
+        "site":  "https://primariadereneu.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Dereneu | Pagina Web Oficiala a Prima»"
+    },
+    {
+        "unit":  "Edinet",
+        "name":  "Cepeleuti",
+        "site":  "https://primariacepeleuti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Cepeleu?i | Pagina web oficiala a Pri»"
+    },
+    {
+        "unit":  "Calarasi",
+        "name":  "Frumoasa",
+        "site":  "https://primariafrumoasa.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Frumoasa | Pagina web oficiala a Prim»"
+    },
+    {
+        "unit":  "Cantemir",
+        "name":  "Capaclia",
+        "site":  "https://primariacapaclia.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Capaclia | Pagina web oficiala a Prim»"
+    },
+    {
+        "unit":  "Calarasi",
+        "name":  "Hirova",
+        "site":  "https://hirova.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «s. Hirova, Calarasi»"
+    },
+    {
+        "unit":  "Briceni",
+        "name":  "Drepcauti",
+        "site":  "https://primariadrepcauti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Drepcauti | Pagina web oficiala»"
+    },
+    {
+        "unit":  "Ungheni",
+        "name":  "Untesti",
+        "site":  "https://untesti.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «»"
+    },
+    {
+        "unit":  "Telenesti",
+        "name":  "Chistelnita",
+        "site":  "https://chistelnita.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «»"
+    },
+    {
+        "unit":  "Stefan Voda",
+        "name":  "Festelita",
+        "site":  "https://primariafestelita.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Fe?teli?a | Pagina web oficiala a Pri»"
+    },
+    {
+        "unit":  "Drochia",
+        "name":  "Tarigrad",
+        "site":  "https://primariatarigrad.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Tarigrad | Pagina web oficiala a Prim»"
+    },
+    {
+        "unit":  "Ialoveni",
+        "name":  "Suruceni",
+        "site":  "https://primariasuruceni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Suruceni | Pagina web oficiala a Prim»"
+    },
+    {
+        "unit":  "Ialoveni",
+        "name":  "Cigirleni",
+        "site":  "https://cigirleni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Cigarleni | Pagina Web Oficiala a Pri»"
+    },
+    {
+        "unit":  "Nisporeni",
+        "name":  "Boltun",
+        "site":  "https://primariaboltun.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Bol?un | Pagina web oficiala a Primar»"
+    },
+    {
+        "unit":  "Drochia",
+        "name":  "Gribova",
+        "site":  "https://gribova.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «s. Gribova, Drochia»"
+    },
+    {
+        "unit":  "Edinet",
+        "name":  "Lopatnic",
+        "site":  "https://primarialopatnic.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Lopatnic | Pagina web oficiala a Prim»"
+    },
+    {
+        "unit":  "Edinet",
+        "name":  "Goleni",
+        "site":  "https://primariagoleni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Goleni, Edine? | Pagina web oficiala»"
+    },
+    {
+        "unit":  "Edinet",
+        "name":  "Corpaci",
+        "site":  "https://corpaci.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «s. Corpaci, Edinet»"
+    },
+    {
+        "unit":  "Causeni",
+        "name":  "Saiti",
+        "site":  "https://primariasaiti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Sai?i, r-nul Cau?eni | Pagina web ofi»"
+    },
+    {
+        "unit":  "Donduseni",
+        "name":  "Pocrovca",
+        "site":  "https://primariapocrovca.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Pocrovca | Pagina web oficiala a Prim»"
+    },
+    {
+        "unit":  "Donduseni",
+        "name":  "Corbu",
+        "site":  "https://corbu.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «»"
+    },
+    {
+        "unit":  "Criuleni",
+        "name":  "Magdacesti",
+        "site":  "https://magdacesti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Primaria Magdace?ti | Pagina web oficiala a Pr»"
+    },
+    {
+        "unit":  "Criuleni",
+        "name":  "Dubasarii Vechi",
+        "site":  "https://dubasariivechi.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_1.log: заголовок «Dubasarii Vechi | Pagina web oficiala a Primar»"
+    },
+    {
+        "unit":  "Glodeni",
+        "name":  "Glodeni",
+        "site":  "https://primaria-glodeni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "заменён районный совет https://glodeni.md/ ; Primăria Glodeni | Pagina web oficială a Primăriei Glodeni"
+    },
+    {
+        "unit":  "Cantemir",
+        "name":  "Cantemir",
+        "site":  "https://primariacantemir.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "заменён районный совет https://cantemir.md/ ; Primăria Orașului Cantemir"
+    },
+    {
+        "unit":  "Straseni",
+        "name":  "Straseni",
+        "site":  "https://straseni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «Primaria municipiului Stra?eni - Primaria ora?»"
+    },
+    {
+        "unit":  "Orhei",
+        "name":  "Orhei",
+        "site":  "https://orhei.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «Primaria ora?ului Orhei - Republica Moldova»"
+    },
+    {
+        "unit":  "Chisinau",
+        "name":  "Codru",
+        "site":  "https://primariacodru.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «Acasa | Primaria Ora?ului Codru»"
+    },
+    {
+        "unit":  "Ocnita",
+        "name":  "Lencauti",
+        "site":  "https://primarialencauti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «Primaria Lencauti | Pagina web oficiala a Prim»"
+    },
+    {
+        "unit":  "Orhei",
+        "name":  "Ciocilteni",
+        "site":  "https://primariaciocilteni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «Primaria Ciocilteni | Pagina web oficiala a Pr»"
+    },
+    {
+        "unit":  "Floresti",
+        "name":  "Varvareuca",
+        "site":  "https://varvareuca.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «c. Varvareuca, Floresti»"
+    },
+    {
+        "unit":  "Comrat",
+        "name":  "Svetlii",
+        "site":  "https://primaria-svetlii.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «Primaria Svetlii \u0026#8212; Moldova»"
+    },
+    {
+        "unit":  "Hincesti",
+        "name":  "Miresti",
+        "site":  "https://primariamiresti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «Primaria Miresti | Pagina web oficiala a Prima»"
+    },
+    {
+        "unit":  "Ialoveni",
+        "name":  "Razeni",
+        "site":  "https://razeni.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «c. Razeni, Ialoveni»"
+    },
+    {
+        "unit":  "Ialoveni",
+        "name":  "Gangura",
+        "site":  "https://gangura.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «Primaria comunei Gangura | Pagina web oficiala»"
+    },
+    {
+        "unit":  "Straseni",
+        "name":  "Micauti",
+        "site":  "https://primariamicauti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «Primaria comunei Micau?i, Stra?eni | Pagina we»"
+    },
+    {
+        "unit":  "Taraclia",
+        "name":  "Cealic",
+        "site":  "https://cealic.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «������� -�ਬ��� ����»"
+    },
+    {
+        "unit":  "Ungheni",
+        "name":  "Petresti",
+        "site":  "https://petresti.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «c. Petresti, Ungheni»"
+    },
+    {
+        "unit":  "Singerei",
+        "name":  "Copaceni",
+        "site":  "https://primariacopaceni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «Primaria Copaceni | Pagina web oficiala a Prim»"
+    },
+    {
+        "unit":  "Dubasari",
+        "name":  "Cosnita",
+        "site":  "https://cosnita.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «cosnita.md \u0026#8211; Primaria comunei Cosnita»"
+    },
+    {
+        "unit":  "Criuleni",
+        "name":  "Raculesti",
+        "site":  "https://raculesti.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «c. Raculesti, Criuleni»"
+    },
+    {
+        "unit":  "Chisinau",
+        "name":  "Cruzesti",
+        "site":  "https://cruzesti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «Primaria Cruzesti \u0026#8211; Municipiul Chisinau»"
+    },
+    {
+        "unit":  "Cantemir",
+        "name":  "Visniovca",
+        "site":  "https://primariavisniovca.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «Primaria Visniovca | Pagina web oficiala a Pri»"
+    },
+    {
+        "unit":  "Cahul",
+        "name":  "Colibasi",
+        "site":  "https://primariacolibasi.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «Primaria Colibasi | Pagina web oficiala a Prim»"
+    },
+    {
+        "unit":  "Riscani",
+        "name":  "Pirjota",
+        "site":  "https://primariapirjota.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «Primaria Pirjota | Pagina web oficiala a Prima»"
+    },
+    {
+        "unit":  "Cahul",
+        "name":  "Rosu",
+        "site":  "https://primariarosu.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «Primaria sat. Ro?u, r-nul Cahul | Pagina web o»"
+    },
+    {
+        "unit":  "Riscani",
+        "name":  "Singureni",
+        "site":  "https://singureni.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «»"
+    },
+    {
+        "unit":  "Briceni",
+        "name":  "Criva",
+        "site":  "https://criva.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «»"
+    },
+    {
+        "unit":  "Comrat",
+        "name":  "Chiriet-Lunga",
+        "site":  "https://chirietlunga.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «ᥫ� ��ਥ� \u0026#8212; �㭣�»"
+    },
+    {
+        "unit":  "Chisinau",
+        "name":  "Condrita",
+        "site":  "https://condrita.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «Acasa - Condrita»"
+    },
+    {
+        "unit":  "Briceni",
+        "name":  "Tabani",
+        "site":  "https://primariatabani.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «Primaria Tabani site oficial - Primaria Tabani»"
+    },
+    {
+        "unit":  "Briceni",
+        "name":  "Pererita",
+        "site":  "https://primariapererita.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «Primaria Pererita | Pagina web oficiala a Prim»"
+    },
+    {
+        "unit":  "Stefan Voda",
+        "name":  "Talmaza",
+        "site":  "https://talmaza.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «Satul Talmaza Raionul ?tefan-Voda, Republica M»"
+    },
+    {
+        "unit":  "Dubasari",
+        "name":  "Holercani",
+        "site":  "https://holercani.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «»"
+    },
+    {
+        "unit":  "Ialoveni",
+        "name":  "Danceni",
+        "site":  "https://danceni.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «s. Danceni, Ialoveni»"
+    },
+    {
+        "unit":  "Donduseni",
+        "name":  "Taul",
+        "site":  "https://primariataul.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «Primaria ?aul | Pagina web oficiala a Primarie»"
+    },
+    {
+        "unit":  "Drochia",
+        "name":  "Moara de Piatra",
+        "site":  "https://primariamoaradepiatra.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «Primaria Moara De Piatra | Pagina web oficiala»"
+    },
+    {
+        "unit":  "Falesti",
+        "name":  "Catranic",
+        "site":  "https://catranic.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «s. Catranic, Falesti»"
+    },
+    {
+        "unit":  "Glodeni",
+        "name":  "Sturzovca",
+        "site":  "https://sturzovca.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «Primaria Sturzovca | Pagina web oficiala a Pri»"
+    },
+    {
+        "unit":  "Cimislia",
+        "name":  "Ivanovca Noua",
+        "site":  "https://primariaivanovcanoua.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «Primaria Ivanovca Noua | Pagina web oficiala a»"
+    },
+    {
+        "unit":  "Tiraspol",
+        "name":  "Speia",
+        "site":  "https://speia.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «satul SPEIA | Anenii Noi»"
+    },
+    {
+        "unit":  "Ocnita",
+        "name":  "Naslavcea",
+        "site":  "https://primarianaslavcea.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «Primaria Naslavcea»"
+    },
+    {
+        "unit":  "Orhei",
+        "name":  "Braviceni",
+        "site":  "https://braviceni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «Primaria Braviceni -»"
+    },
+    {
+        "unit":  "Nisporeni",
+        "name":  "Milesti",
+        "site":  "https://milesti.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «»"
+    },
+    {
+        "unit":  "Ocnita",
+        "name":  "Birnova",
+        "site":  "https://primariabirnova.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «Primaria Birnova \u0026#8211; Pagina web oficiala a»"
+    },
+    {
+        "unit":  "Balti",
+        "name":  "Elizaveta",
+        "site":  "https://elizaveta.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «s. Elizaveta, Balti»"
+    },
+    {
+        "unit":  "Cimislia",
+        "name":  "Troitcoe",
+        "site":  "https://troitcoe.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_2.log: заголовок «s. Troitcoe, Cimislia»"
+    },
+    {
+        "unit":  "Nisporeni",
+        "name":  "Nisporeni",
+        "site":  "https://primarianisporeni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "заменён районный совет https://nisporeni.md/ ; Primăria or.Nisporeni"
+    },
+    {
+        "unit":  "Leova",
+        "name":  "Iargara",
+        "site":  "https://iargara.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Ora?ul Iargara | Pagina web oficiala a Primari»"
+    },
+    {
+        "unit":  "Chisinau",
+        "name":  "Vatra",
+        "site":  "https://primariavatra.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Site-ul oficial - Primaria ora?ului Vatra»"
+    },
+    {
+        "unit":  "Briceni",
+        "name":  "Lipcani",
+        "site":  "https://primarialipcani.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria ora?ului Lipcani | Pagina web oficial»"
+    },
+    {
+        "unit":  "Nisporeni",
+        "name":  "Varzaresti",
+        "site":  "https://varzaresti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Prezentare»"
+    },
+    {
+        "unit":  "Straseni",
+        "name":  "Lozova",
+        "site":  "https://lozova.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Comuna Lozova, Stra?eni | Un simplu sit WordPr»"
+    },
+    {
+        "unit":  "Taraclia",
+        "name":  "Albota de Sus",
+        "site":  "https://primariaalbotadesus.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Albota de Sus»"
+    },
+    {
+        "unit":  "Soroca",
+        "name":  "Tatarauca Veche",
+        "site":  "https://primariatataraucaveche.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria comunei Tatarauca Veche | Pagina web»"
+    },
+    {
+        "unit":  "Ungheni",
+        "name":  "Zagarancea",
+        "site":  "https://primariazagarancea.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria Zagarancea | Pagina web Oficiala a Pr»"
+    },
+    {
+        "unit":  "Soroca",
+        "name":  "Badiceni",
+        "site":  "https://primariabadiceni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria Badiceni | Pagina web oficiala a Prim»"
+    },
+    {
+        "unit":  "Singerei",
+        "name":  "Alexandreni",
+        "site":  "https://alexandreni.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «»"
+    },
+    {
+        "unit":  "Singerei",
+        "name":  "Ciuciuieni",
+        "site":  "https://primariaciuciuieni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria Ciuciuieni | Pagina web oficiala a Pr»"
+    },
+    {
+        "unit":  "Cantemir",
+        "name":  "Ciobalaccia",
+        "site":  "https://primariaciobalaccia.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria Ciobalaccia MD | Pagina web oficiala»"
+    },
+    {
+        "unit":  "Edinet",
+        "name":  "Bratuseni",
+        "site":  "https://bratuseni.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «c. Bratuseni, Edinet»"
+    },
+    {
+        "unit":  "Criuleni",
+        "name":  "Hrusova",
+        "site":  "https://primariahrusova.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria Hru?ova, r-nul Criuleni | Pagina web»"
+    },
+    {
+        "unit":  "Donduseni",
+        "name":  "Mosana",
+        "site":  "https://primariamosana.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria Mo?ana | Pagina web Oficiala a Primar»"
+    },
+    {
+        "unit":  "Drochia",
+        "name":  "Baroncea",
+        "site":  "https://primariabaroncea.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria Baroncea, Drochia | Pagina web oficia»"
+    },
+    {
+        "unit":  "Falesti",
+        "name":  "Iscalau",
+        "site":  "https://primariaiscalau.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria Comunei I?calau | Pagina web Oficiala»"
+    },
+    {
+        "unit":  "Calarasi",
+        "name":  "Hirjauca",
+        "site":  "https://primariahirjauca.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria Hirjauca | Pagina web oficiala a Prim»"
+    },
+    {
+        "unit":  "Straseni",
+        "name":  "Cojusna",
+        "site":  "https://cojusna.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria Coju?na | Pagina web oficiala a Prima»"
+    },
+    {
+        "unit":  "Riscani",
+        "name":  "Nihoreni",
+        "site":  "https://nihoreni.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «»"
+    },
+    {
+        "unit":  "Telenesti",
+        "name":  "Tintareni",
+        "site":  "https://tintareni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria ?in?areni \u0026#8211; Pagina web oficiala»"
+    },
+    {
+        "unit":  "Briceni",
+        "name":  "Cotiujeni",
+        "site":  "https://primariacotiujeni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria Cotiujeni | Pagina web oficiala a Pri»"
+    },
+    {
+        "unit":  "Chisinau",
+        "name":  "Colonita",
+        "site":  "https://colonita.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria s. Coloni?a \u0026#8211; Municipiul Chi?in»"
+    },
+    {
+        "unit":  "Soldanesti",
+        "name":  "Cobilea",
+        "site":  "https://cobilea.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «s. Cobilea, Soldanesti»"
+    },
+    {
+        "unit":  "Stefan Voda",
+        "name":  "Tudora",
+        "site":  "https://primariatudora.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria Tudora | Pagina web oficiala»"
+    },
+    {
+        "unit":  "Ialoveni",
+        "name":  "Horodca",
+        "site":  "https://primariahorodca.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria Horodca»"
+    },
+    {
+        "unit":  "Ialoveni",
+        "name":  "Bardar",
+        "site":  "https://bardar.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Bardar.md»"
+    },
+    {
+        "unit":  "Donduseni",
+        "name":  "Scaieni",
+        "site":  "https://primariascaieni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria Scaieni | Pagina web oficiala a Prima»"
+    },
+    {
+        "unit":  "Nisporeni",
+        "name":  "Bursuc",
+        "site":  "https://primariabursuc.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria Bursuc, Raionul Nisporeni | Site-ul o»"
+    },
+    {
+        "unit":  "Drochia",
+        "name":  "Mindic",
+        "site":  "https://mindic.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «»"
+    },
+    {
+        "unit":  "Floresti",
+        "name":  "Putinesti",
+        "site":  "https://putinesti.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «»"
+    },
+    {
+        "unit":  "Floresti",
+        "name":  "Bahrinesti",
+        "site":  "https://primariabahrinesti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria Bahrine?ti, raionul Flore?ti Republic»"
+    },
+    {
+        "unit":  "Falesti",
+        "name":  "Calinesti",
+        "site":  "https://calinesti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria comunei Caline?ti \u0026#8211; Trei sate,»"
+    },
+    {
+        "unit":  "Hincesti",
+        "name":  "Boghiceni",
+        "site":  "https://primariaboghiceni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria Boghiceni | Pagina web oficiala a Pri»"
+    },
+    {
+        "unit":  "Glodeni",
+        "name":  "Hijdieni",
+        "site":  "https://hijdieni.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «s. Hijdieni, Glodeni»"
+    },
+    {
+        "unit":  "Cimislia",
+        "name":  "Cenac",
+        "site":  "https://cenac.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «s. Cenac, Cimislia»"
+    },
+    {
+        "unit":  "Cimislia",
+        "name":  "Gura Galbenei",
+        "site":  "https://primariaguragalbenei.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria Gura Galbenei | Pagina Web Oficiala a»"
+    },
+    {
+        "unit":  "Causeni",
+        "name":  "Cirnateni",
+        "site":  "https://cirnateni.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «»"
+    },
+    {
+        "unit":  "Ocnita",
+        "name":  "Sauca",
+        "site":  "https://primariasauca.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria Sauca \u0026#8212; Primaria satului Sauca»"
+    },
+    {
+        "unit":  "Orhei",
+        "name":  "Bulaiesti",
+        "site":  "https://primariabulaiesti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria Bulaie?ti | Pagina web oficiala a Pri»"
+    },
+    {
+        "unit":  "Donduseni",
+        "name":  "Plop",
+        "site":  "https://plop.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «»"
+    },
+    {
+        "unit":  "Orhei",
+        "name":  "Viscauti",
+        "site":  "https://viscauti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria satului Vi?cau?i \u0026#8211; Site-ul ofic»"
+    },
+    {
+        "unit":  "Orhei",
+        "name":  "Peresecina",
+        "site":  "https://peresecina.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_3.log: заголовок «Primaria sat. Peresecina, Raionul Orhei | Pagi»"
+    },
+    {
+        "unit":  "Rezina",
+        "name":  "Rezina",
+        "site":  "https://primaria-rezina.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "заменён районный совет https://rezina.md/ ; Primăria Orașului Rezina | Pagina web oficială a Primăriei orașului Rezina"
+    },
+    {
+        "unit":  "Leova",
+        "name":  "Leova",
+        "site":  "https://primarialeova.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "заменён районный совет https://leova.md/ ; Primăria Leova | Site-ul oficial al primăriei orașului Leova"
+    },
+    {
+        "unit":  "Cimislia",
+        "name":  "Cimislia",
+        "site":  "https://cimislia.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Cimi?lia \u0026#8211; Primaria orasului Cimislia»"
+    },
+    {
+        "unit":  "Falesti",
+        "name":  "Falesti",
+        "site":  "https://falesti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria ora?ului Fale?ti»"
+    },
+    {
+        "unit":  "Ocnita",
+        "name":  "Mihalaseni",
+        "site":  "https://primariamihalaseni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria Mihalaseni | Pagina web oficiala a Pr»"
+    },
+    {
+        "unit":  "Orhei",
+        "name":  "Piatra",
+        "site":  "https://piatra.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «»"
+    },
+    {
+        "unit":  "Hincesti",
+        "name":  "Carpineni",
+        "site":  "https://carpineni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria comunei Carpineni - Primaria comunei»"
+    },
+    {
+        "unit":  "Floresti",
+        "name":  "Ciutulesti",
+        "site":  "https://ciutulesti.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «c. Ciutulesti, Floresti»"
+    },
+    {
+        "unit":  "Ialoveni",
+        "name":  "Tipala",
+        "site":  "https://tipala.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «c. Tipala, Ialoveni»"
+    },
+    {
+        "unit":  "Soldanesti",
+        "name":  "Climautii de Jos",
+        "site":  "https://primariaclimautiidejos.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria Climautii de Jos | Pagina web oficial»"
+    },
+    {
+        "unit":  "Straseni",
+        "name":  "Panasesti",
+        "site":  "https://panasesti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria satului Panasesti \u0026#8211; Raionul Str»"
+    },
+    {
+        "unit":  "Soroca",
+        "name":  "Nimereuca",
+        "site":  "https://nimereuca.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «c. Nimereuca, Soroca»"
+    },
+    {
+        "unit":  "Soroca",
+        "name":  "Stoicani",
+        "site":  "https://primariastoicani.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria Comunei Stoicani | Pagina web oficial»"
+    },
+    {
+        "unit":  "Ungheni",
+        "name":  "Valea Mare",
+        "site":  "https://primariavaleamare.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria Valea Mare | Portalul oficial al Prim»"
+    },
+    {
+        "unit":  "Ungheni",
+        "name":  "Boghenii Noi",
+        "site":  "https://primariabogheniinoi.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «primariabogheniinoi.md - Oviedo, FL»"
+    },
+    {
+        "unit":  "Drochia",
+        "name":  "Petreni",
+        "site":  "https://petreni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria Petreni | Pagina web oficiala a Prima»"
+    },
+    {
+        "unit":  "Briceni",
+        "name":  "Bogdanesti",
+        "site":  "https://primariabogdanesti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria Bogdane?ti | Pagina Web Oficiala a Pr»"
+    },
+    {
+        "unit":  "Criuleni",
+        "name":  "Hirtopul Mare",
+        "site":  "https://primariahirtopulmare.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria Hirtopul Mare | Pagina web oficiala a»"
+    },
+    {
+        "unit":  "Criuleni",
+        "name":  "Drasliceni",
+        "site":  "https://drasliceni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria Drasliceni | Pagina web a Primariei c»"
+    },
+    {
+        "unit":  "Cahul",
+        "name":  "Burlaceni",
+        "site":  "https://primariaburlaceni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria comunei Burlaceni | Pagina web oficia»"
+    },
+    {
+        "unit":  "Drochia",
+        "name":  "Cotova",
+        "site":  "https://primariacotova.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria Cotova | Pagina Web Oficiala a Primar»"
+    },
+    {
+        "unit":  "Cahul",
+        "name":  "Moscovei",
+        "site":  "https://primariamoscovei.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «�ਬ��� ��᪮��� | ��樠��� ᠩ� �ਬ�ਨ»"
+    },
+    {
+        "unit":  "Chisinau",
+        "name":  "Ciorescu",
+        "site":  "https://ciorescu.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «| Ciorescu |»"
+    },
+    {
+        "unit":  "Falesti",
+        "name":  "Falestii Noi",
+        "site":  "https://primariafalestiinoi.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria Fale?tii Noi | Pagina web oficiala a»"
+    },
+    {
+        "unit":  "Chisinau",
+        "name":  "Bubuieci",
+        "site":  "https://bubuieci.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Public Administration | Primariabubuieci | Mol»"
+    },
+    {
+        "unit":  "Chisinau",
+        "name":  "Bacioi",
+        "site":  "https://bacioi.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria ?i Consiliul Local al comunei Bacioi»"
+    },
+    {
+        "unit":  "Edinet",
+        "name":  "Burlanesti",
+        "site":  "https://primariaburlanesti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria Burlane?ti | Pagina web oficiala a Pr»"
+    },
+    {
+        "unit":  "Chisinau",
+        "name":  "Stauceni",
+        "site":  "https://stauceni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Principala - Primaria Stauceni»"
+    },
+    {
+        "unit":  "Riscani",
+        "name":  "Corlateni",
+        "site":  "https://corlateni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria Corlateni | Pagina web oficiala a Pri»"
+    },
+    {
+        "unit":  "Briceni",
+        "name":  "Caracusenii Vechi",
+        "site":  "https://primariacaracuseniivechi.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria Caracusenii Vechi | Pagina web oficia»"
+    },
+    {
+        "unit":  "Briceni",
+        "name":  "Coteala",
+        "site":  "https://primariacoteala.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria satului Coteala, r-nul Briceni | Pagi»"
+    },
+    {
+        "unit":  "Chisinau",
+        "name":  "Ghidighici",
+        "site":  "https://ghidighici.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Ghidighici | Pagina web oficiala comunei Ghidi»"
+    },
+    {
+        "unit":  "Straseni",
+        "name":  "Scoreni",
+        "site":  "https://scoreni.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «s. Scoreni, Straseni»"
+    },
+    {
+        "unit":  "Taraclia",
+        "name":  "Tvardita",
+        "site":  "https://tvardita.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «������� | tvardita.md»"
+    },
+    {
+        "unit":  "Stefan Voda",
+        "name":  "Ermoclia",
+        "site":  "https://primariaermoclia.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria Ermoclia, r-nul ?tefan Voda | Pagina»"
+    },
+    {
+        "unit":  "Ialoveni",
+        "name":  "Nimoreni",
+        "site":  "https://nimoreni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria Nimoreni | Pagina web oficiala a Prim»"
+    },
+    {
+        "unit":  "Hincesti",
+        "name":  "Loganesti",
+        "site":  "https://primarialoganesti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria Loganesti | Pagina web oficiala a Pri»"
+    },
+    {
+        "unit":  "Dubasari",
+        "name":  "Dorotcaia",
+        "site":  "https://primariadorotcaia.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria Dorotcaia»"
+    },
+    {
+        "unit":  "Leova",
+        "name":  "Filipeni",
+        "site":  "https://filipeni.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «s. Filipeni, Leova»"
+    },
+    {
+        "unit":  "Floresti",
+        "name":  "Casunca",
+        "site":  "https://primariacasunca.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria Ca?unca, Flore?ti | Pagina web oficia»"
+    },
+    {
+        "unit":  "Edinet",
+        "name":  "Brinzeni",
+        "site":  "https://brinzeni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria Brinzeni»"
+    },
+    {
+        "unit":  "Hincesti",
+        "name":  "Balceana",
+        "site":  "https://primariabalceana.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria Balceana, Hince?ti | Pagina web ofici»"
+    },
+    {
+        "unit":  "Criuleni",
+        "name":  "Onitcani",
+        "site":  "https://primariaonitcani.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria satului Oni?cani | Pagina web oficial»"
+    },
+    {
+        "unit":  "Donduseni",
+        "name":  "Climauti",
+        "site":  "https://primariaclimauti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria Climauti, r-nul Dondu?eni | Pagina we»"
+    },
+    {
+        "unit":  "Rezina",
+        "name":  "Cuizauca",
+        "site":  "https://primariacuizauca.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria Cuizauca | Pagina web oficiala a Prim»"
+    },
+    {
+        "unit":  "Orhei",
+        "name":  "Mitoc",
+        "site":  "https://primariamitoc.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_4.log: заголовок «Primaria Mitoc | Pagina web oficiala a Primari»"
+    },
+    {
+        "unit":  "Balti",
+        "name":  "Balti",
+        "site":  "https://balti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria municipiului Bal?i»"
+    },
+    {
+        "unit":  "Ialoveni",
+        "name":  "Ialoveni",
+        "site":  "https://ialoveni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria orasului Ialoveni»"
+    },
+    {
+        "unit":  "Cahul",
+        "name":  "Cahul",
+        "site":  "https://primariacahul.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "заменён районный совет https://cahul.md/ ; Primăria Municipiului Cahul - site-ul oficial"
+    },
+    {
+        "unit":  "Comrat",
+        "name":  "Vulcanesti",
+        "site":  "https://vulcanesti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «����������� �㫪�����᪮�� ࠩ��� - ��樠��»"
+    },
+    {
+        "unit":  "Chisinau",
+        "name":  "Cricova",
+        "site":  "https://cricova.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Cricova - Vinaria Subterana din Moldova | Excu»"
+    },
+    {
+        "unit":  "Chisinau",
+        "name":  "Singera",
+        "site":  "https://singera.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria or. Singera»"
+    },
+    {
+        "unit":  "Ocnita",
+        "name":  "Corestauti",
+        "site":  "https://primariacorestauti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria Corestau?i | Pagina web oficiala a Pr»"
+    },
+    {
+        "unit":  "Ocnita",
+        "name":  "Birladeni",
+        "site":  "https://primariabirladeni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria Birladeni | Pagina web oficiala a Pri»"
+    },
+    {
+        "unit":  "Orhei",
+        "name":  "Ivancea",
+        "site":  "https://ivancea.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria Ivancea, r-nul Orhei | Pagina web ofi»"
+    },
+    {
+        "unit":  "Nisporeni",
+        "name":  "Cioresti",
+        "site":  "https://cioresti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria Ciore?ti, Raionul Nisporeni \u0026#8211; R»"
+    },
+    {
+        "unit":  "Floresti",
+        "name":  "Japca",
+        "site":  "https://primariajapca.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria Comunei Japca - Website Oficial»"
+    },
+    {
+        "unit":  "Hincesti",
+        "name":  "Bozieni",
+        "site":  "https://primariabozieni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria comunei Bozieni | Pagina web oficiala»"
+    },
+    {
+        "unit":  "Falesti",
+        "name":  "Pruteni",
+        "site":  "https://pruteni.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «»"
+    },
+    {
+        "unit":  "Leova",
+        "name":  "Tigheci",
+        "site":  "https://primariatigheci.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria comunei Tigheci | Pagina web oficiala»"
+    },
+    {
+        "unit":  "Straseni",
+        "name":  "Micleuseni",
+        "site":  "https://micleuseni.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «»"
+    },
+    {
+        "unit":  "Comrat",
+        "name":  "Etulia",
+        "site":  "https://etulia.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «�ਬ��� ��㫨� \u0026#8211; �.�.�. ����㧨�, ����»"
+    },
+    {
+        "unit":  "Ungheni",
+        "name":  "Agronomovca",
+        "site":  "https://agronomovca.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «c. Agronomovca, Ungheni»"
+    },
+    {
+        "unit":  "Tiraspol",
+        "name":  "Delacau",
+        "site":  "https://primariadelacau.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria Delacau | Pagina web oficiala a Prima»"
+    },
+    {
+        "unit":  "Singerei",
+        "name":  "Cubolta",
+        "site":  "https://cubolta.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria comunei Cubolta | Pagina web oficiala»"
+    },
+    {
+        "unit":  "Cimislia",
+        "name":  "Ecaterinovca",
+        "site":  "https://primariaecaterinovca.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria Ecaterinovca | Pagina web oficiala a»"
+    },
+    {
+        "unit":  "Cantemir",
+        "name":  "Tiganca",
+        "site":  "https://primariatiganca.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria ?iganca | Pagina web oficiala a Prima»"
+    },
+    {
+        "unit":  "Briceni",
+        "name":  "Colicauti",
+        "site":  "https://primariacolicauti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria Colicauti \u0026#8211; Pagina web oficiala»"
+    },
+    {
+        "unit":  "Donduseni",
+        "name":  "Teleseuca",
+        "site":  "https://primariateleseuca.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria Teleseuca | Pagina web oficiala a Pri»"
+    },
+    {
+        "unit":  "Criuleni",
+        "name":  "Baltata",
+        "site":  "https://primaria-baltata.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «�������»"
+    },
+    {
+        "unit":  "Chisinau",
+        "name":  "Gratiesti",
+        "site":  "https://gratiesti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Comuna Gratiesti \u0026#8211; Comuna Gratie?ti»"
+    },
+    {
+        "unit":  "Causeni",
+        "name":  "Coscalia",
+        "site":  "https://coscalia.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «»"
+    },
+    {
+        "unit":  "Chisinau",
+        "name":  "Truseni",
+        "site":  "https://truseni.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria Tru?eni | Pagina web oficiala a APL T»"
+    },
+    {
+        "unit":  "Cantemir",
+        "name":  "Tartaul",
+        "site":  "https://primariatartaul.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria Tartaul | Pagina web oficiala a Prima»"
+    },
+    {
+        "unit":  "Riscani",
+        "name":  "Zaicani",
+        "site":  "https://zaicani.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «s. Zaicani, Riscani»"
+    },
+    {
+        "unit":  "Briceni",
+        "name":  "Corjeuti",
+        "site":  "https://primariacorjeuti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria Corjeu?i, Briceni | Pagina web oficia»"
+    },
+    {
+        "unit":  "Comrat",
+        "name":  "Chirsova",
+        "site":  "https://chirsova.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «s. Chirsova, UTA Gagauzia»"
+    },
+    {
+        "unit":  "Briceni",
+        "name":  "Sirauti",
+        "site":  "https://primariasirauti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria Sirauti, Briceni | Pagina web oficial»"
+    },
+    {
+        "unit":  "Stefan Voda",
+        "name":  "Caplani",
+        "site":  "https://caplani.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «s. Caplani, Stefan Voda»"
+    },
+    {
+        "unit":  "Drochia",
+        "name":  "Pelinia",
+        "site":  "https://pelinia.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria Satului Pelinia - Primaria Satului Pe»"
+    },
+    {
+        "unit":  "Hincesti",
+        "name":  "Negrea",
+        "site":  "https://negrea.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «»"
+    },
+    {
+        "unit":  "Dubasari",
+        "name":  "Molovata",
+        "site":  "https://primariamolovata.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria Molovata | Pagina web oficiala a Prim»"
+    },
+    {
+        "unit":  "Hincesti",
+        "name":  "Voinescu",
+        "site":  "https://primariavoinescu.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria Voinescu | Pagina web oficiala a Prim»"
+    },
+    {
+        "unit":  "Drochia",
+        "name":  "Chetrosu",
+        "site":  "https://chetrosu.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «c. Chetrosu, Anenii Noi»"
+    },
+    {
+        "unit":  "Edinet",
+        "name":  "Sofrincani",
+        "site":  "https://primariasofrincani.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria ?ofrincani | Pagina Web Oficiala a Pr»"
+    },
+    {
+        "unit":  "Falesti",
+        "name":  "Rautel",
+        "site":  "https://primaria-rautel.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Rau?el - Pagina principala»"
+    },
+    {
+        "unit":  "Edinet",
+        "name":  "Trinca",
+        "site":  "https://primariatrinca.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria Trinca | Pagina web Oficiala a Primar»"
+    },
+    {
+        "unit":  "Hincesti",
+        "name":  "Calmatui",
+        "site":  "https://primariacalmatui.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria Calmatui | Pagina web oficiala a Prim»"
+    },
+    {
+        "unit":  "Hincesti",
+        "name":  "Bujor",
+        "site":  "https://bujor.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «»"
+    },
+    {
+        "unit":  "Calarasi",
+        "name":  "Varzarestii Noi",
+        "site":  "https://primariavarzarestiinoi.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria Varzarestii-Noi | Pagina web oficiala»"
+    },
+    {
+        "unit":  "Falesti",
+        "name":  "Navirnet",
+        "site":  "https://primarianavirnet.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria Navirnet | Pagina web oficiala a Prim»"
+    },
+    {
+        "unit":  "Causeni",
+        "name":  "Hagimus",
+        "site":  "https://primariahagimus.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria Hagimus | Pagina web oficiala a Prima»"
+    },
+    {
+        "unit":  "Ocnita",
+        "name":  "Hadarauti",
+        "site":  "https://primariahadarauti.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria Hadarauti, r-nul Ocni?a | Pagina web»"
+    },
+    {
+        "unit":  "Orhei",
+        "name":  "Bolohan",
+        "site":  "https://primariabolohan.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria Bolohan | Pagina web oficiala a Prima»"
+    },
+    {
+        "unit":  "Ocnita",
+        "name":  "Girbova",
+        "site":  "https://primariagirbova.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria Girbova | Pagina web oficiala a Prima»"
+    },
+    {
+        "unit":  "Orhei",
+        "name":  "Susleni",
+        "site":  "https://susleni.primarie.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «s. Susleni, Orhei»"
+    },
+    {
+        "unit":  "Criuleni",
+        "name":  "Izbiste",
+        "site":  "https://izbiste.md/",
+        "email":  "",
+        "phone":  "",
+        "verified":  true,
+        "found_in":  "обход probe_5.log: заголовок «Primaria Izbi?te \u0026#8211; Primaria Izbi?te»"
+    }
+]

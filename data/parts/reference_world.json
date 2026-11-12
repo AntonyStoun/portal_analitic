@@ -1,0 +1,126 @@
+﻿{
+  "_meta": {
+    "checked": "2026-11-12",
+    "method": "Все указанные url открыты автоматической проверкой 12.11.2026 и ответили HTTP 200. Для четырёх известных площадок (imf.org, oecd.org, coe.int, topuniversities.com) автостраничка отвечает 403 на бот-запросы — они в справочник не включены.",
+    "note": "конкретные макроцифры вручную не проставляются: они приходят живьём из лент; в карточках указаны только те значения, которые портал забрал из первоисточника сам"
+  },
+  "politics": {
+    "institutions": [
+      { "name": "United Nations", "role": "генеральная ассамблея, совет безопасности, специализированные агентства; новости — через собственный RSS", "founded": "1945", "url": "https://www.un.org" },
+      { "name": "European Commission", "role": "исполнительный орган ЕС: законодательные инициативы, политика соседства", "founded": "1958", "url": "https://commission.europa.eu" },
+      { "name": "OSCE", "role": "безопасность, выборы, миссии; региональный измеритель в Восточной Европе", "founded": "1975 — Хельсинкский заключительный акт", "url": "https://www.osce.org" },
+      { "name": "NATO", "role": "североатлантический альянс: официальные заявления и саммиты", "founded": "1949", "url": "https://www.nato.int" },
+      { "name": "World Trade Organization", "role": "торговые правила, разрешение споров, торговая статистика", "founded": "1995", "url": "https://www.wto.org" },
+      { "name": "World Health Organization", "role": "глобальная статистика здоровья, чрезвычайные ситуации", "founded": "1948", "url": "https://www.who.int" }
+    ],
+    "regions": [
+      { "region": "Европа (включая Восточное партнёрство)", "note": "портал получает ленты Guardian World, DW, UN News, NPR; для Молдовы — национальный контур", "src": "https://www.osce.org" },
+      { "region": "Ближний Восток и Северная Африка", "note": "основной поток — Al Jazeera (всё покрытие) и UN News", "src": "https://www.un.org" },
+      { "region": "Азия и Индо-Тихоокеанский регион", "note": "отслеживается по мировым лентам агентств; отдельного регионального фида в портале пока нет", "src": "https://www.un.org" },
+      { "region": "Африка к югу от Сахары", "note": "отслеживается по мировым лентам; отдельного регионального фида нет", "src": "https://www.un.org" },
+      { "region": "Америка (Северная и Южная)", "note": "NPR (мировое покрытие) плюс деловые ленты", "src": "https://unimedia.info" }
+    ],
+    "conflicts_watch": [
+      { "place": "Ближний Восток", "status": "ленты активны: Al Jazeera, UN News — карточки приходят по дате публикации", "updated": "12.11.2026", "src": "https://www.un.org" },
+      { "place": "Европа (Украина и соседние страны)", "status": "ленты активны: Guardian World, DW, UN News", "updated": "12.11.2026", "src": "https://www.osce.org" },
+      { "place": "Приднестровский файл Молдовы", "status": "отслеживается национальными фидами: UNIMEDIA, TV8, Basarabia, Cotidianul", "updated": "12.11.2026", "src": "https://unimedia.info" },
+      { "place": "Торговые и тарифные споры", "status": "ленты: WTO (официальные документы), Guardian Business, BBC Business", "updated": "12.11.2026", "src": "https://www.wto.org" }
+    ]
+  },
+  "economy": {
+    "indicators": [
+      { "name": "Наши ряды данных: Our World in Data", "value": "открытые датасеты по динамике incomes, energy, mortality, emissions", "unit": "long-run series", "date": "проверено 12.11.2026", "src": "https://www.ourworldindata.org" },
+      { "name": "Глобальная статистика ООН (UN Statistics Division)", "value": "национальные счета, торговля, народонаселение", "unit": "official statistics", "date": "проверено 12.11.2026", "src": "https://unstats.un.org" },
+      { "name": "Торговля: официальные данные WTO", "value": "тарифы, товаропотоки, торговые споры", "unit": "trade statistics", "date": "проверено 12.11.2026", "src": "https://www.wto.org" },
+      { "name": "World Bank: индикаторы развития", "value": "WDI — публичные ряды по странам", "unit": "development indicators", "date": "проверено 12.11.2026", "src": "https://www.worldbank.org" }
+    ],
+    "markets": [
+      { "name": "BNM official exchange rates (MDL)", "kind": "валютный рынок Молдовы: официальный курс, публикуется ежедневно в XML", "url": "https://www.bnm.md/ro/official_exchange_rates" },
+      { "name": "WTO trade statistics", "kind": "мировая торговля: товары и услуги, тарифные данные", "url": "https://www.wto.org" },
+      { "name": "UN Statistics Division", "kind": "макропоказатели по странам (национальные счета)", "url": "https://unstats.un.org" }
+    ],
+    "institutions": [
+      { "name": "World Bank Group", "role": "кредиты развития, страновые обзоры, открытые данные", "url": "https://www.worldbank.org" },
+      { "name": "World Trade Organization", "role": "правила торговли и разрешение споров", "url": "https://www.wto.org" },
+      { "name": "United Nations Statistics Division", "role": "сопоставимая международная статистика", "url": "https://unstats.un.org" },
+      { "name": "European Commission", "role": "экономическая политика ЕС, торговая политика", "url": "https://commission.europa.eu" }
+    ],
+    "currencies": [
+      { "code": "USD", "name": "US dollar", "note": "основная резервная и расчётная валюта мировых рынков" },
+      { "code": "EUR", "name": "euro", "note": "валюта еврозоны; основная расчётная валюта торговли Молдовы" },
+      { "code": "CNY", "name": "renminbi (юань)", "note": "расчёты с Китаем, своп-линии" },
+      { "code": "GBP", "name": "фунт стерлингов", "note": "третий по значимости блок в резервах" },
+      { "code": "JPY", "name": "ена", "note": "ключевая азиатская валюта финансирования" },
+      { "code": "CHF", "name": "швейцарский франк", "note": "валюта-«убежище»" },
+      { "code": "TRY", "name": "турецкая лира", "note": "влияние на региональную торговлю и логистику" },
+      { "code": "RON", "name": "румынский лей", "note": "соседняя валюта: прямой канал цен для Молдовы" },
+      { "code": "MDL", "name": "молдавский лей", "note": "официальный курс публикует BNM; портал читает XML напрямую" }
+    ]
+  },
+  "religion": {
+    "demography": [
+      { "faith": "христианство (все конфессии)", "adherents": "≈2,4 млрд", "share": "≈31% населения мира", "src": "https://www.pewresearch.org" },
+      { "faith": "ислам", "adherents": "≈2,0 млрд", "share": "≈25%; самая быстрорастущая группа", "src": "https://www.pewresearch.org" },
+      { "faith": "индуизм", "adherents": "≈1,2 млрд", "share": "≈15%", "src": "https://www.pewresearch.org" },
+      { "faith": "нерелигиозные (атеисты, агностики, «без религии»)", "adherents": "≈1,2 млрд", "share": "≈16%", "src": "https://www.pewresearch.org" },
+      { "faith": "буддизм", "adherents": "≈0,5 млрд", "share": "≈7%", "src": "https://www.pewresearch.org" },
+      { "faith": "иудаизм", "adherents": "≈15 млн", "share": "≈0,2%", "src": "https://www.pewresearch.org" }
+    ],
+    "centers": [
+      { "name": "Vatican (Santa Sede)", "kind": "центр Католической церкви", "note": "официальные документы, богослужебный календарь, новости — собственный новостной RSS у Vatican News", "url": "https://www.vatican.va" },
+      { "name": "Pew Research Center (Religion & Public Life)", "kind": "исследовательский центр", "note": "глобальные оценки численности конфессий; на их основе строится блок «религии» портала", "url": "https://www.pewresearch.org" },
+      { "name": "United Nations — Alliance of Civilizations / interfaith agenda", "kind": "межконфессиональный трек", "note": "новостной поток идёт через UN News", "url": "https://www.un.org" }
+    ],
+    "holy_sites": [
+      { "place": "Ierusalim / Jerusalem", "faith": "иудаизм, христианство, ислам", "name": "Старый город", "note": "одновременно святыня трёх авраамических религий; статус постоянно оказывается в новостной повестке" },
+      { "place": "Makka (Мекка)", "faith": "ислам", "name": "Masjid al-Haram", "note": "хадж — ежегодное паломничество, поток паломников публикуется официальными органами Саудовской Аравии" },
+      { "place": "Roma (Рим)", "faith": "христианство (католичество)", "name": "Vatican / San Pietro", "note": "кафедра Папы; официальные тексты — на vatican.va" },
+      { "place": "Varanasi", "faith": "индуизм", "name": "гхаты Ганга", "note": "один из древнейших непрерывно живых городов мира" },
+      { "place": "Bodh Gaya", "faith": "буддизм", "name": "Mahabodhi Temple", "note": "место пробуждения Будды; объект ЮНЕСКО" }
+    ]
+  },
+  "education": {
+    "top_universities": [
+      { "name": "Massachusetts Institute of Technology (MIT)", "country": "USA", "rank_source": "всегда в верхней группе QS/THE/ARWU; сайт открыт 12.11.2026", "url": "https://www.mit.edu" },
+      { "name": "Stanford University", "country": "USA", "rank_source": "верхняя группа мировых рейтингов; сайт открыт 12.11.2026", "url": "https://web.stanford.edu" },
+      { "name": "Harvard University", "country": "USA", "rank_source": "верхняя группа мировых рейтингов; сайт открыт 12.11.2026", "url": "https://www.harvard.edu" },
+      { "name": "Universitatea de Stat din Moldova (USM)", "country": "Moldova", "rank_source": "крупнейший государственный университет страны; сайт открыт 12.11.2026", "url": "https://usm.md" },
+      { "name": "Universitatea Tehnică a Moldovei (UTM)", "country": "Moldova", "rank_source": "ведущий технический вуз страны; сайт открыт 12.11.2026", "url": "https://utm.md" }
+    ],
+    "programs": [
+      { "name": "Erasmus+", "kind": "академическая мобильность и совместные проекты", "note": "доступен для вузов Молдовы; официальные правила и конкурсы — на портале программы", "url": "https://erasmus-plus.ec.europa.eu" },
+      { "name": "Horizon Europe (наука и инновации)", "kind": "рамочная программа ЕС", "note": "условия участия и проекты — на официальных страницах Европейской комиссии", "url": "https://commission.europa.eu" }
+    ],
+    "rankings": [
+      { "name": "Times Higher Education World University Rankings", "url": "https://www.timeshighereducation.com" }
+    ]
+  },
+  "it": {
+    "trends": [
+      { "trend": "доли интернет-пользования и инфраструктуры", "note": "сопоставимые ряды даёт ITU; портал не придумывает проценты сам", "src": "https://www.itu.int" },
+      { "trend": "открытые глобальные датасеты (энергия, emissions, цифровизация)", "note": "Our World in Data — ряды, которые можно пересчитывать самим", "src": "https://www.ourworldindata.org" },
+      { "trend": "стандарты веба и интероперабельность", "note": "спецификации W3C и протоколы IETF — первоисточник всех «цифровых новшеств»", "src": "https://www.w3.org" },
+      { "trend": "нумерация и делегирование доменов", "note": "IANA Root Zone Database — официальные записи о том, кто держит зону", "src": "https://www.iana.org" }
+    ],
+    "companies": [
+      { "name": "Apple", "field": "hardware, OS, сервисы", "note": "карточка без ссылки: адрес не проверялся в этом прогоне", "url": null },
+      { "name": "Microsoft", "field": "OS, облако, ИИ-инструменты", "note": "карточка без ссылки: адрес не проверялся в этом прогоне", "url": null },
+      { "name": "Google / Alphabet", "field": "поиск, облако, ИИ", "note": "карточка без ссылки: адрес не проверялся в этом прогоне", "url": null },
+      { "name": "NVIDIA", "field": "ускорители вычислений для ИИ", "note": "карточка без ссылки: адрес не проверялся в этом прогоне", "url": null }
+    ],
+    "bodies": [
+      { "name": "ICANN", "role": "координация имён и адресов интернета", "url": "https://www.icann.org" },
+      { "name": "IANA", "role": "делегирующие записи Root Zone Database (в т.ч. .md)", "url": "https://www.iana.org" },
+      { "name": "IETF", "role": "протоколы интернета (RFC)", "url": "https://www.ietf.org" },
+      { "name": "W3C", "role": "стандарты веба (HTML, CSS, доступность)", "url": "https://www.w3.org" },
+      { "name": "ITU", "role": "агентство ООН по цифровым технологиям и связи; статистика подключения", "url": "https://www.itu.int" }
+    ],
+    "domains": [
+      { "tld": "md", "registry": "запись делегирования в IANA Root Zone Database", "url": "https://www.iana.org/domains/root/db/md.html" },
+      { "tld": "org", "registry": "запись делегирования в IANA Root Zone Database", "url": "https://www.iana.org/domains/root/db/org.html" },
+      { "tld": "eu", "registry": "запись делегирования в IANA Root Zone Database", "url": "https://www.iana.org/domains/root/db/eu.html" },
+      { "tld": "ro", "registry": "запись делегирования в IANA Root Zone Database", "url": "https://www.iana.org/domains/root/db/ro.html" },
+      { "tld": "com", "registry": "запись делегирования в IANA Root Zone Database", "url": "https://www.iana.org/domains/root/db/com.html" }
+    ]
+  }
+}

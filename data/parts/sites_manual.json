@@ -1,0 +1,38 @@
+[
+  {
+    "unit": "Floresti",
+    "name": "Floresti",
+    "site": "https://primariafloresti.md/",
+    "email": "",
+    "phone": "",
+    "verified": true,
+    "found_in": "проверено вручную 12.11.2026: HTTP 200, заголовок «Primăria Florești | Pagina web oficială a primăriei Florești»; адрес назван человеком, работавшим в этой примэрии"
+  },
+  {
+    "unit": "Criuleni",
+    "name": "Criuleni",
+    "site": "https://primaria-criuleni.md/",
+    "email": "",
+    "phone": "",
+    "verified": true,
+    "found_in": "проверено вручную 12.11.2026: HTTP 200, заголовок «Acasă | Primăria Criuleni»"
+  },
+  {
+    "unit": "Criuleni",
+    "name": "Raculesti",
+    "site": "https://raculesti.primarie.md/",
+    "email": "",
+    "phone": "",
+    "verified": true,
+    "found_in": "проверено вручную 12.11.2026: HTTP 200, заголовок «c. Răculeşti, Criuleni»"
+  },
+  {
+    "unit": "Telenesti",
+    "name": "Vasieni",
+    "site": "https://vasieni.primarie.md/",
+    "email": "vasieni.tl@gmail.com",
+    "phone": "",
+    "verified": true,
+    "found_in": "проверено вручную 12.11.2026: HTTP 200, 472 КБ, «Primăria» ×42, «Vasieni» ×154, упоминания raion Telenesti, e-mail vasieni.tl@gmail.com"
+  }
+]

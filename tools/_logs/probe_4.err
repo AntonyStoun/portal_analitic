@@ -1,0 +1,7 @@
+Типы аргумента не совпадают
+C:\Users\user\Documents\Strata\Workspace\portal-analitic\tools\probe-sites.ps1:118 знак:1
++ Set-Content -Path (Join-Path $parts $Out) -Value (ConvertTo-Json -Inp ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OperationStopped: (:) [], ArgumentException
+    + FullyQualifiedErrorId : System.ArgumentException
+ 

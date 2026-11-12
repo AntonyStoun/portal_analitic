@@ -1,0 +1,211 @@
+[
+  {
+    "unit": "Chisinau",
+    "name": "Durlesti",
+    "level": "oras",
+    "site": "https://durlesti.md/",
+    "email": "durlestiprimarie@gmail.com",
+    "phone": "022 58 44 78",
+    "verified": true,
+    "found_in": "https://lite.duckduckgo.com/lite/?q=%22prim%C4%83ria%22+telenesti+site%3A.md",
+    "notes": "Подтверждено загрузкой https://durlesti.md/ro/contacte.html — «Primăria oraşului Durleşti»; адрес MD, телефон и e-mail видны прямо на странице сайта."
+  },
+  {
+    "unit": "Chisinau",
+    "name": "Singera",
+    "level": "oras",
+    "site": "https://singera.md/",
+    "email": "primaria@singera.md",
+    "phone": "022 413041",
+    "verified": true,
+    "found_in": "https://singera.md/",
+    "notes": "Сайт загружен (HTTP 200): «Primăria or. Sîngera», на главной адрес Or. Sîngera, str. 31 August 1989, nr. 22, тел. 022413041 / 060199900, e-mail primaria@singera.md. Домен проверен прямой загрузкой: поисковые системы (DuckDuckGo, Mojeek, Bing) в этот момент отдавали капчу/нерелевантную выдачу, поэтому найден не через поиск. Состав единицы (oras + s. Revaca + s. Dobrogea) подтверждается текстом сайта."
+  },
+  {
+    "unit": "Orhei",
+    "name": "Orhei",
+    "level": "oras",
+    "site": "https://orhei.md/",
+    "email": null,
+    "phone": null,
+    "verified": true,
+    "found_in": "https://duckduckgo.com/html/?q=prim%C4%83ria+orhei+site+oficial+.md",
+    "notes": "Главная открыта (HTTP 200), заголовок «Primaria orașului Orhei - Republica Moldova». Контакты на главной не найдены; e-mail/телефон из агрегатора or.md не брались (не подтверждены официальным сайтом)."
+  },
+  {
+    "unit": "Orhei",
+    "name": "Seliste",
+    "level": "comuna",
+    "site": "https://primariaseliste.md/",
+    "email": null,
+    "phone": null,
+    "verified": true,
+    "found_in": "https://primariaseliste.md/",
+    "notes": "Сайт загружен, заголовок «Primăria Selişte raionul Orhei» — совпадает с реестровой единицей Seliste (raion Orhei). Точный поисковый запрос в этой сессии не зафиксирован, поэтому found_in = сам сайт. ВНИМАНИЕ: в реестре есть ещё Seliste в raion Nisporeni — привязка к Orhei сделана по тексту самого сайта."
+  },
+  {
+    "unit": "Orhei",
+    "name": "Peresecina",
+    "level": "sat",
+    "site": "https://peresecina.md/",
+    "email": null,
+    "phone": null,
+    "verified": true,
+    "found_in": "https://peresecina.md/",
+    "notes": "Сайт загружен, заголовок «Primăria sat. Peresecina, Raionul Orhei». Точный поисковый запрос в этой сессии не зафиксирован, found_in = сам сайт."
+  },
+  {
+    "unit": "Orhei",
+    "name": "Putintei",
+    "level": "comuna",
+    "site": "https://primaria-putintei.md/",
+    "email": "primariaputintei@gmail.com",
+    "phone": "0235 61636",
+    "verified": true,
+    "found_in": "https://primaria-putintei.md/",
+    "notes": "Сайт загружен: «Primăria Puțintei … Raionul Orhei»; e-mail и телефон видны на главной. Поисковый запрос в этой сессии не зафиксирован, found_in = сам сайт."
+  },
+  {
+    "unit": "Orhei",
+    "name": "Ciocilteni",
+    "level": "comuna",
+    "site": "https://primariaciocilteni.md/",
+    "email": "primaria.ciocilteni@apl.gov.md",
+    "phone": "0235 52238",
+    "verified": true,
+    "found_in": "https://lite.duckduckgo.com/lite/?q=%22prim%C4%83ria%22+telenesti+site%3A.md",
+    "notes": "Сайт загружен: «Pagina web oficială a Primăriei Ciocîlteni raionul Orhei»; в тексте объявления на главной указаны MD-3519, tel. (0235)-52-238/52-236 и e-mail primaria.ciocilteni@apl.gov.md."
+  },
+  {
+    "unit": "Rezina",
+    "name": "Rezina",
+    "level": "oras",
+    "site": "https://primaria-rezina.md/",
+    "email": null,
+    "phone": null,
+    "verified": true,
+    "found_in": "https://lite.duckduckgo.com/lite/?q=%22prim%C4%83ria%22+rezina+site%3A.md",
+    "notes": "Главная открыта (HTTP 200), заголовок «Primăria Orașului Rezina». E-mail/телефон с particip.gov.md (pr.rezina@gmail.com) не брались — это агрегатор, не официальный сайт."
+  },
+  {
+    "unit": "Rezina",
+    "name": "Cuizauca",
+    "level": "sat",
+    "site": "https://primariacuizauca.md/",
+    "email": null,
+    "phone": null,
+    "verified": true,
+    "found_in": "https://primariacuizauca.md/",
+    "notes": "Сайт загружен: «Primăria Cuizăuca … satului Cuizăuca raionul Rezina». На главной контактов нет (есть раздел Contacte, не открывался). Поисковый запрос в этой сессии не зафиксирован, found_in = сам сайт."
+  },
+  {
+    "unit": "Telenesti",
+    "name": "Telenesti",
+    "level": "oras",
+    "site": "https://www.primariatelenesti.md/",
+    "email": "primariatelenesti@gmail.com",
+    "phone": "0258 22530",
+    "verified": true,
+    "found_in": "https://lite.duckduckgo.com/lite/?q=%22prim%C4%83ria%22+telenesti+site%3A.md",
+    "notes": "Официальный сайт примэрии (заголовок «Primăria Telenești»); телефон и e-mail были в футере загруженной страницы этого же сайта. НЕ путать с telenesti.md — это Consiliul Raional Telenești, а не примэрия."
+  },
+  {
+    "unit": "Telenesti",
+    "name": "Vasieni",
+    "level": "sat",
+    "site": "https://vasieni.primarie.md/",
+    "email": null,
+    "phone": null,
+    "verified": false,
+    "found_in": "https://lite.duckduckgo.com/lite/?q=%22prim%C4%83ria%22+telenesti+site%3A.md",
+    "notes": "Загрузка вернула HTTP 200, но пустое тело (сайт на primarie.md рендерит контент скриптом) — подтвердить текст «Primăria Văsieni» не удалось. Осторожно: в реестре есть ещё Vasieni (sat) в raion Ialoveni; привязка к Telenesti держится только на сниппете поиска."
+  },
+  {
+    "unit": "Criuleni",
+    "name": "Criuleni",
+    "level": "oras",
+    "site": "https://www.primaria-criuleni.md/",
+    "email": null,
+    "phone": null,
+    "verified": false,
+    "found_in": "https://lite.duckduckgo.com/lite/?q=%22prim%C4%83ria%22+criuleni+site%3A.md",
+    "notes": "Домен найден в выдаче («Acasă | Primăria Criuleni», описание «Primăria Orașului Criuleni»), но две попытки загрузки (/ и /primăria) вернули HTTP 200 с пустым контентом — страница рендерится скриптом, поэтому статус verified:false."
+  },
+  {
+    "unit": "Criuleni",
+    "name": "Drasliceni",
+    "level": "comuna",
+    "site": "https://drasliceni.md/",
+    "email": "primaria@drasliceni.md",
+    "phone": "0248 73236",
+    "verified": true,
+    "found_in": "https://lite.duckduckgo.com/lite/?q=%22prim%C4%83ria%22+criuleni+site%3A.md",
+    "notes": "Сайт загружен: «Pagina web a Primăriei comunei Drăsliceni, Raionul Criuleni»; в блоке CONTACTAŢI-NE: MD-4821, s. Drăsliceni, str. Mihai Viteazul 8, tel. 248 73236 / 248 73238, e-mail primaria@drasliceni.md."
+  },
+  {
+    "unit": "Criuleni",
+    "name": "Magdacesti",
+    "level": "sat",
+    "site": "https://magdacesti.md/",
+    "email": "primaria.magdacesti@apl.gov.md",
+    "phone": "0248 34236",
+    "verified": true,
+    "found_in": "https://lite.duckduckgo.com/lite/?q=%22prim%C4%83ria%22+criuleni+site%3A.md",
+    "notes": "Сайт загружен: «Pagina web oficială a Primăriei Măgdăcești, raionul Criuleni»; e-mail и телефон указаны в шапке сайта."
+  },
+  {
+    "unit": "Criuleni",
+    "name": "Miclesti",
+    "level": "comuna",
+    "site": "https://primariamiclesti.md/",
+    "email": "primariamiclesti@mail.ru",
+    "phone": "0248 36236",
+    "verified": true,
+    "found_in": "https://lite.duckduckgo.com/lite/?q=%22prim%C4%83ria%22+criuleni+site%3A.md",
+    "notes": "Сайт загружен: «Pagina web oficială a Primăriei Miclești, Raionul Criuleni» (comuna Miclești = s. Miclești + s. Stețcani); e-mail и телефон в шапке сайта."
+  },
+  {
+    "unit": "Criuleni",
+    "name": "Onitcani",
+    "level": "sat",
+    "site": "https://primariaonitcani.md/",
+    "email": "primaria.onitcani@apl.gov.md",
+    "phone": "0248 79236",
+    "verified": true,
+    "found_in": "https://lite.duckduckgo.com/lite/?q=%22prim%C4%83ria%22+criuleni+site%3A.md",
+    "notes": "Сайт загружен: «Pagina web oficială a Primăriei satului Onițcani»; в шапке e-mail primaria.onitcani@apl.gov.md и строка «Fax: 0-248-79236, 0-248-79238» (взято как телефон)."
+  },
+  {
+    "unit": "Criuleni",
+    "name": "Pascani",
+    "level": "comuna",
+    "site": "https://pascani.md/",
+    "email": null,
+    "phone": null,
+    "verified": true,
+    "found_in": "https://lite.duckduckgo.com/lite/?q=%22prim%C4%83ria%22+criuleni+site%3A.md",
+    "notes": "Сайт загружен: «Primăria comunei Pașcani, Criuleni» (текст прямо указывает raionul Criuleni — важно, т.к. Pascani есть и в raion Hîncești). На главной контактов нет, раздел Contacte не открывался."
+  },
+  {
+    "unit": "Criuleni",
+    "name": "Raculesti",
+    "level": "comuna",
+    "site": "https://raculesti.primarie.md/",
+    "email": null,
+    "phone": null,
+    "verified": false,
+    "found_in": "https://lite.duckduckgo.com/lite/?q=%22prim%C4%83ria%22+criuleni+site%3A.md",
+    "notes": "В выдаче для raculesti.primarie.md указан блок контактов («Primăria Comunei Răculești: +37324875136, primariaraculesti@gmail.com»), но загрузка главной вернула HTTP 200 с пустым телом — подтвердить официально содержимое сайта не удалось, поэтому verified:false и контакты не записаны."
+  },
+  {
+    "unit": "Criuleni",
+    "name": "Cimiseni",
+    "level": "sat",
+    "site": "https://primariacimiseni.md/",
+    "email": null,
+    "phone": null,
+    "verified": false,
+    "found_in": "https://lite.duckduckgo.com/lite/?q=%22prim%C4%83ria%22+criuleni+site%3A.md",
+    "notes": "В выдаче: «Primăria Cimișeni | Pagina web oficială a Primăriei Cimișeni» (sat, raionul Criuleni). web_fetch главной упал с сетевой ошибкой (TypeError: fetch failed) — страница не загружена, статус verified:false."
+  }
+]

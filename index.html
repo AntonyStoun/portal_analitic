@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>LITTLE HUNTER // PORTAL ANALITIC — МИР · МОЛДОВА</title>
+<meta name="description" content="Локальный аналитический портал: граф из блоков-нодов. Два масштаба — МИР и МОЛДОВА; шесть тематических блоков: политика, экономика, религия, образование, примэрии Молдовы, IT.">
+<link rel="stylesheet" href="app/ui.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='5' fill='%23161a1e'/%3E%3Cg fill='none' stroke='%239fb0c0' stroke-width='1.4'%3E%3Crect x='6' y='6' width='9' height='7' rx='1.5'/%3E%3Crect x='17' y='12' width='9' height='7' rx='1.5'/%3E%3Crect x='6' y='19' width='9' height='7' rx='1.5'/%3E%3Cpath d='M15 9.5c4 0 2 5 2 6.5'/%3E%3C/g%3E%3C/svg%3E">
+</head>
+<body>
+<div id="stage">
+  <div id="bgbase"></div>
+  <div class="ghost g1"></div>
+  <div class="ghost g2"></div>
+  <div class="ghost g3"></div>
+  <canvas id="filaments"></canvas>
+  <div id="grain"></div>
+  <div id="scan"></div>
+  <div id="vig"></div>
+
+  <div id="shell">
+
+    <header id="top">
+      <div class="brand">
+        <b>Little Hunter</b><i>// portal analitic · аналитический портал</i>
+      </div>
+      <div class="scopes" id="scopes" role="tablist" aria-label="Масштаб анализа">
+        <button class="scope-pick" data-scope="WORLD" title="Планетарный контур: мировая политика, рынки, конфессии, наука, IT">МИР</button>
+        <button class="scope-pick" data-scope="MD" title="Национальный контур: Молдова + реестр примэрий">МОЛДОВА</button>
+      </div>
+      <div class="spacer"></div>
+      <label class="search" for="q" title="Поиск по ленте и по реестру примэрий">
+        <input id="q" type="search" placeholder="поиск: тема, источник, примэрия, район…" autocomplete="off" spellcheck="false">
+        <kbd>/</kbd>
+      </label>
+      <div class="ctrl">
+        <button class="btn" id="btnLive" title="Подтянуть свежие данные из открытых источников (нужен интернет)">обновить</button>
+        <button class="btn" id="btnAuto" title="Автообновление каждые 10 минут">авто: выкл</button>
+        <button class="btn" id="btnReset" title="Вернуть узлы на типовые позиции">сброс графа</button>
+      </div>
+    </header>
+
+    <main id="work">
+      <section id="field">
+        <svg id="wires" aria-hidden="true">
+          <defs>
+            <marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto-start-reverse">
+              <path d="M0 1.2 L8.4 5 L0 8.8 z" fill="rgba(190,202,215,.55)"></path>
+            </marker>
+            <marker id="arwHot" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+              <path d="M0 1.2 L8.4 5 L0 8.8 z" fill="rgba(226,236,246,.9)"></path>
+            </marker>
+          </defs>
+          <g id="wireLayer"></g>
+        </svg>
+        <div id="nodes"></div>
+      </section>
+
+      <aside id="stream">
+        <div id="streamHead">
+          <b id="streamTitle">Лента</b>
+          <span class="cnt" id="streamCount"></span>
+        </div>
+        <div id="streamList"></div>
+      </aside>
+    </main>
+
+    <footer id="bottom">
+      <span><b id="stScope">—</b> · <b id="stTopic">—</b></span>
+      <span id="stFresh">архив: —</span>
+      <span id="stNet">сеть: —</span>
+      <span class="sp"></span>
+      <span id="fx"></span>
+      <span class="sp"></span>
+      <span><span class="k">Q</span><span class="k">W</span> масштаб</span>
+      <span><span class="k">1</span>–<span class="k">6</span> блок</span>
+      <span><span class="k">R</span> обновить</span>
+      <span><span class="k">/</span> поиск</span>
+    </footer>
+  </div>
+
+  <div id="reader"><div id="readerBox"></div></div>
+  <div id="toast"></div>
+</div>
+
+<!-- ---- данные (собираются офлайн-конвейером и живыми источниками) ---- -->
+<script src="data/feeds.js"></script>
+<script src="data/primarii.js"></script>
+<script src="data/reference.js"></script>
+<script src="data/sources.js"></script>
+
+<!-- ---- ядро портала ---- -->
+<script src="app/00-core.js"></script>
+<script src="app/10-graph.js"></script>
+<script src="app/15-data.js"></script>
+<script src="app/20-panel.js"></script>
+<script src="app/30-live.js"></script>
+<script src="app/90-boot.js"></script>
+</body>
+</html>

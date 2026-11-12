@@ -1,0 +1,59 @@
+{
+  "_meta": {
+    "note": "Карта живых источников. Ключ: <контур>.<тема>. kind: rss|json|xml. Все адреса проверены прямым запросом (update-cache.ps1) 2026-11-12.",
+    "proxy_hint": "в браузере file:// требует CORS-прокси; офлайн-обновлятор ходит напрямую",
+    "checked": "2026-11-12"
+  },
+  "world.policy": [
+    { "name": "The Guardian · World", "url": "https://www.theguardian.com/world/rss", "kind": "rss" },
+    { "name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "kind": "rss" },
+    { "name": "NPR · World", "url": "https://feeds.npr.org/1001/rss.xml", "kind": "rss" },
+    { "name": "UN News", "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml", "kind": "rss" },
+    { "name": "Deutsche Welle", "url": "https://rss.dw.com/rdf/rss-en-world", "kind": "rss" }
+  ],
+  "world.market": [
+    { "name": "The Guardian · Business", "url": "https://www.theguardian.com/business/rss", "kind": "rss" },
+    { "name": "Al Jazeera · Economy", "url": "https://www.aljazeera.com/economy/tag/economy/rss", "kind": "rss" },
+    { "name": "BBC · Business", "url": "http://feeds.bbci.co.uk/news/business/rss.xml", "kind": "rss" }
+  ],
+  "world.religion": [
+    { "name": "Vatican News", "url": "https://www.vaticannews.va/en.rss.xml", "kind": "rss" },
+    { "name": "Religion News Service", "url": "https://religionnews.com/feed/", "kind": "rss" },
+    { "name": "Catholic News Agency", "url": "https://www.catholicculture.org/culture/library/rss.cfm", "kind": "rss" }
+  ],
+  "world.edu": [
+    { "name": "University World News", "url": "https://www.universityworldnews.com/rss.xml", "kind": "rss" },
+    { "name": "The Guardian · Education", "url": "https://www.theguardian.com/education/rss", "kind": "rss" },
+    { "name": "Nature · research", "url": "https://www.nature.com/nature.rss", "kind": "rss" }
+  ],
+  "world.it": [
+    { "name": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "kind": "rss" },
+    { "name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index", "kind": "rss" },
+    { "name": "WIRED", "url": "https://www.wired.com/feed/rss", "kind": "rss" },
+    { "name": "BBC · Technology", "url": "http://feeds.bbci.co.uk/news/technology/rss.xml", "kind": "rss" }
+  ],
+  "md.policy": [
+    { "name": "UNIMEDIA", "url": "https://unimedia.info/ro/rss/all", "kind": "rss" },
+    { "name": "Moldpres", "url": "https://moldpres.md/rss", "kind": "rss" },
+    { "name": "TV8", "url": "https://tv8.md/feed/", "kind": "rss" },
+    { "name": "Timpul", "url": "https://www.timpul.md/rss", "kind": "rss" }
+  ],
+  "md.market": [
+    { "name": "BNM · официальный курс MDL", "url": "https://www.bnm.md/ro/official_exchange_rates?get_xml=1", "kind": "xml" },
+    { "name": "Cotidianul Moldovenesc", "url": "https://cotidianul.md/feed/", "kind": "rss" },
+    { "name": "NOKTA", "url": "https://nokta.md/feed/", "kind": "rss" }
+  ],
+  "md.religion": [
+    { "name": "UNIMEDIA · религия", "url": "https://unimedia.info/ro/rss/all", "kind": "rss" },
+    { "name": "Basarabia", "url": "https://basarabia.md/feed/", "kind": "rss" }
+  ],
+  "md.edu": [
+    { "name": "Moldpres · образование", "url": "https://moldpres.md/rss", "kind": "rss" },
+    { "name": "UNIMEDIA · образование", "url": "https://unimedia.info/ro/rss/all", "kind": "rss" }
+  ],
+  "md.it": [
+    { "name": "UNIMEDIA · технологии", "url": "https://unimedia.info/ro/rss/all", "kind": "rss" },
+    { "name": "Cotidianul · IT", "url": "https://cotidianul.md/feed/", "kind": "rss" },
+    { "name": "ANRCETDI", "url": "https://anrcetdi.md/rss", "kind": "rss" }
+  ]
+}

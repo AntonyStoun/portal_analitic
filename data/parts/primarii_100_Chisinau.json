@@ -1,0 +1,21 @@
+[
+{"unit":"Chisinau","unit_id":100,"name":"Chisinau","level":"oras","uat_id":101,"villages":1},
+{"unit":"Chisinau","unit_id":100,"name":"Codru","level":"oras","uat_id":131,"villages":1},
+{"unit":"Chisinau","unit_id":100,"name":"Cricova","level":"oras","uat_id":151,"villages":1},
+{"unit":"Chisinau","unit_id":100,"name":"Durlesti","level":"oras","uat_id":121,"villages":1},
+{"unit":"Chisinau","unit_id":100,"name":"Singera","level":"oras","uat_id":111,"villages":3},
+{"unit":"Chisinau","unit_id":100,"name":"Vadul Lui Voda","level":"oras","uat_id":141,"villages":1},
+{"unit":"Chisinau","unit_id":100,"name":"Vatra","level":"oras","uat_id":122,"villages":1},
+{"unit":"Chisinau","unit_id":100,"name":"Bacioi","level":"comuna","uat_id":5511,"villages":4},
+{"unit":"Chisinau","unit_id":100,"name":"Bubuieci","level":"comuna","uat_id":142,"villages":3},
+{"unit":"Chisinau","unit_id":100,"name":"Budesti","level":"comuna","uat_id":3120,"villages":2},
+{"unit":"Chisinau","unit_id":100,"name":"Ciorescu","level":"comuna","uat_id":152,"villages":3},
+{"unit":"Chisinau","unit_id":100,"name":"Colonita","level":"sat","uat_id":149,"villages":1},
+{"unit":"Chisinau","unit_id":100,"name":"Condrita","level":"sat","uat_id":123,"villages":1},
+{"unit":"Chisinau","unit_id":100,"name":"Cruzesti","level":"comuna","uat_id":144,"villages":2},
+{"unit":"Chisinau","unit_id":100,"name":"Ghidighici","level":"sat","uat_id":124,"villages":1},
+{"unit":"Chisinau","unit_id":100,"name":"Gratiesti","level":"comuna","uat_id":155,"villages":2},
+{"unit":"Chisinau","unit_id":100,"name":"Stauceni","level":"comuna","uat_id":3153,"villages":2},
+{"unit":"Chisinau","unit_id":100,"name":"Tohatin","level":"comuna","uat_id":146,"villages":3},
+{"unit":"Chisinau","unit_id":100,"name":"Truseni","level":"comuna","uat_id":8039,"villages":2}
+]

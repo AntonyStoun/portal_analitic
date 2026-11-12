@@ -1,0 +1,17 @@
+[
+  {"unit":"Taraclia","unit_id":8700,"name":"Taraclia","level":"oras","uat_id":8701,"villages":1},
+  {"unit":"Taraclia","unit_id":8700,"name":"Albota de Jos","level":"comuna","uat_id":8710,"villages":3},
+  {"unit":"Taraclia","unit_id":8700,"name":"Albota de Sus","level":"comuna","uat_id":8713,"villages":3},
+  {"unit":"Taraclia","unit_id":8700,"name":"Aluatu","level":"sat","uat_id":8716,"villages":1},
+  {"unit":"Taraclia","unit_id":8700,"name":"Balabanu","level":"sat","uat_id":8717,"villages":1},
+  {"unit":"Taraclia","unit_id":8700,"name":"Budai","level":"comuna","uat_id":8719,"villages":2},
+  {"unit":"Taraclia","unit_id":8700,"name":"Cairaclia","level":"sat","uat_id":8720,"villages":1},
+  {"unit":"Taraclia","unit_id":8700,"name":"Cealic","level":"comuna","uat_id":8721,"villages":3},
+  {"unit":"Taraclia","unit_id":8700,"name":"Corten","level":"sat","uat_id":8723,"villages":1},
+  {"unit":"Taraclia","unit_id":8700,"name":"Musaitu","level":"sat","uat_id":8724,"villages":1},
+  {"unit":"Taraclia","unit_id":8700,"name":"Novosiolovca","level":"sat","uat_id":8725,"villages":1},
+  {"unit":"Taraclia","unit_id":8700,"name":"Salcia","level":"comuna","uat_id":8726,"villages":2},
+  {"unit":"Taraclia","unit_id":8700,"name":"Tvardita","level":"sat","uat_id":8728,"villages":1},
+  {"unit":"Taraclia","unit_id":8700,"name":"Valea Perjei","level":"sat","uat_id":8729,"villages":1},
+  {"unit":"Taraclia","unit_id":8700,"name":"Vinogradovca","level":"comuna","uat_id":8730,"villages":4}
+]

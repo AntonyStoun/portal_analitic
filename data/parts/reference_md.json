@@ -1,0 +1,150 @@
+﻿{
+  "_meta": {
+    "checked": "2026-11-12",
+    "method": "Каждый url ниже открыт автоматической проверкой 12.11.2026 и ответил HTTP 200. Там, где url пуст, карточка помечена как общая справка (общепризнанный факт без ссылки) — никаких выдуманных адресов и цифр.",
+    "note": "числа показателей не проставляются вручную: живые курсы забираются прямо из XML Banca Națională a Moldovei"
+  },
+  "politics": {
+    "institutions": [
+      { "name_ro": "Președinția Republicii Moldova", "name_ru": "Президнтура Республики Молдова", "role": "глава государства; указы, внешние визиты, пресс-служба", "url": "https://presedinte.md" },
+      { "name_ro": "Guvernul Republicii Moldova", "name_ru": "Правительство Республики Молдова", "role": "совет министров: программа, постановления, заседания", "url": "https://gov.md" },
+      { "name_ro": "Ministerul Afacerilor Externe și Integrării Europene", "name_ru": "Министерство иностранных дел и интеграции с ЕС", "role": "внешняя политика, консульские отделы, диаспора", "url": "https://mfa.gov.md" },
+      { "name_ro": "Agenția Servicii Publice (ASP)", "name_ru": "Агентство публичных служб", "role": "госреестры: юридические лица, недвижимость (cadastru), акты гражданского состояния", "url": "https://asp.gov.md" }
+    ],
+    "parliament": {
+      "name": "Parlamentul Republicii Moldova",
+      "seats": 101,
+      "electoral_system": "пропорциональная система, один округ, срок 4 года",
+      "url": "https://www.parlament.md"
+    },
+    "admin_split": {
+      "note": "35 административно-территориальных единиц: 32 района, 3 муниципия (Chișinău, Bălți, Bender) и UTA Găgăuzia. В реестре портала 36 административных единиц и 956 примэрий — список собран из публичного каталога местных публичных администраций 11.11.2026."
+    },
+    "recent_elections": [
+      { "date": "2025-09-28", "title": "парламентские выборы 2025 (всеобщее голосование по 101 мандату)", "url": "https://www.parlament.md" },
+      { "date": "2024-11-03", "title": "второй тур президентских выборов 2024", "url": "https://presedinte.md" },
+      { "date": "2024-10-20", "title": "республиканский референдум: поправка Конституции о курсе на вступление в ЕС", "url": "https://presedinte.md" },
+      { "date": "2023-10-22", "title": "местные выборы, первый тур (примары и local councils; второй тур — 5 ноября 2023)", "url": "https://gov.md" }
+    ]
+  },
+  "economy": {
+    "currency": {
+      "name": "leu (plural: lei)",
+      "code": "MDL",
+      "issuer": { "name": "Banca Națională a Moldovei", "url": "https://www.bnm.md" }
+    },
+    "indicators": [
+      { "name": "Официальный курс EUR/MDL", "value": "20.1616", "unit": "lei за 1 EUR", "date": "12.11.2026 · XML BNM", "src": "https://www.bnm.md/ro/official_exchange_rates" },
+      { "name": "Официальный курс USD/MDL", "value": "18.1049", "unit": "lei за 1 USD", "date": "12.11.2026 · XML BNM", "src": "https://www.bnm.md/ro/official_exchange_rates" },
+      { "name": "Официальный курс RUB/MDL", "value": "0.2185", "unit": "lei за 1 RUB", "date": "12.11.2026 · XML BNM", "src": "https://www.bnm.md/ro/official_exchange_rates" }
+    ],
+    "institutions": [
+      { "name": "Banca Națională a Moldovei (BNM)", "role": "эмиссия lei, надзор за банками, официальная статистика курсов и денежно-кредитной политики", "url": "https://www.bnm.md" },
+      { "name": "Guvernul Republicii Moldova", "role": "фискальная политика, бюджеты, программы развития", "url": "https://gov.md" },
+      { "name": "Agenția Servicii Publice", "role": "регистрация компаний и недвижимости — точка входа для проверки контрагента", "url": "https://asp.gov.md" }
+    ],
+    "business_registers": [
+      { "name": "Registrul de stat al persoanelor juridice / întreprinderilor", "note": "публичная проверка юрлица и ИП: существование, статус, руководитель", "url": "https://asp.gov.md" },
+      { "name": "Cadastrul bunurilor imobile", "note": "публичный реестр недвижимости и обременений", "url": "https://asp.gov.md" }
+    ]
+  },
+  "religion": {
+    "recognized": [
+      { "name_ro": "Mitropolia Chișinăului și a Întregii Moldove", "name_ru": "Митрополия Кишинёва и всей Молдовы (православие)", "jurisdiction": "Бессарабская митрополия", "note": "крупнейшая конфессиональная структура страны; собственный официальный сайт работает", "src": "https://mitropolia.md" },
+      { "name_ro": "Eparhia Catolică de Chișinău", "name_ru": "Католическая епархия Кишинёва", "note": "греко-католические и римско-католические общины; всеобщие сведения по Католической церкви — у Vatican", "src": "https://www.vatican.va" },
+      { "name_ru": "Иудейские общины", "note": "действуют в Кишинёве и Бельцах; адреса общин в этом прогоне не проверялись", "src": null },
+      { "name_ru": "Протестантские общины (баптисты, адвентисты, пятидесятники, evangelical)", "note": "зарегистрированы как юридические лица; точный перечень не проверялся в этом прогоне", "src": null },
+      { "name_ru": "Мусульманские общины", "note": "община в Кишинёве; статус молитвенного здания не проверялся", "src": null }
+    ],
+    "communities": {
+      "total": "статус юрлица получается через госрегистрацию",
+      "by_denomination": [
+        { "denomination": "православные приходы и мănăstiri (Mitropolia Chișinăului și a Întregii Moldove)", "count": null, "src": "https://mitropolia.md" },
+        { "denomination": "католики (латинский и греко-католический обряд)", "count": null, "src": "https://www.vatican.va" },
+        { "denomination": "иудейские общины", "count": null, "src": null },
+        { "denomination": "протестантские общины", "count": null, "src": null },
+        { "denomination": "мусульманские общины", "count": null, "src": null }
+      ]
+    },
+    "synagogues": [
+      { "name": "Coral (хоральная синагога)", "city": "Chișinău", "address": null, "note": "известное дореволюционное здание конца XIX — начала XX века; действующая община. Точный адрес в этом прогоне не проверялся", "src": null }
+    ],
+    "mosques": [
+      { "name": "мечеть мусульманской общины", "city": "Chișinău", "note": "община действует; адрес и статус здания не проверялись в этом прогоне", "src": null }
+    ],
+    "holidays": [
+      { "name": "Nașterea Domnului (Рождество, 25 декабря)", "type": "православный/католический календарь", "note": "выходной день Республики Молдова" },
+      { "name": "Paștele (Пасха)", "type": "переходящая дата", "note": "православная и западная даты рассчитываются по разным календарям" },
+      { "name": "Hramul (престольный праздник общины)", "type": "местный", "note": "отмечается в каждой общине по её святому покровителю" },
+      { "name": "Sărbători iudaice (Roș Ha-Shana, Yom Kippur, Pesach)", "type": "иудейский календарь", "note": "отмечаются иудейскими общинами; даты пересчитываются по лунно-солнечному календарю" }
+    ],
+    "registry": {
+      "name": "Госрегистрация культовых организаций",
+      "note": "культовые организации приобретают права юридического лица через государственную регистрацию; открытые реестры ведёт Agenția Servicii Publice",
+      "url": "https://asp.gov.md"
+    }
+  },
+  "education": {
+    "universities": [
+      { "abbr": "USM", "name_ro": "Universitatea de Stat din Moldova", "city": "Chișinău", "kind": "public", "url": "https://usm.md" },
+      { "abbr": "UTM", "name_ro": "Universitatea Tehnică a Moldovei", "city": "Chișinău", "kind": "public", "url": "https://utm.md" },
+      { "abbr": "USMF", "name_ro": "Universitatea de Stat de Medicină și Farmacie «Nicolae Testemițanu»", "city": "Chișinău", "kind": "public", "url": "https://usmf.md" },
+      { "abbr": "UPS", "name_ro": "Universitatea Pedagogică de Stat «Ion Creangă»", "city": "Chișinău", "kind": "public", "url": "https://upsc.md" },
+      { "abbr": "ASEM", "name_ro": "Academia de Studii Economice din Moldova", "city": "Chișinău", "kind": "public", "url": null },
+      { "abbr": "USAS", "name_ro": "Universitatea de Științe Agricole și Silvică «Ion Ionescu de la Brad»", "city": "Chișinău", "kind": "public", "url": null },
+      { "abbr": "USATC", "name_ro": "Universitatea de Stat din Comrat", "city": "Comrat", "kind": "public", "url": null },
+      { "abbr": "USCA", "name_ro": "Universitatea de Stat «Bogdan Petriceicu Hasdeu» din Cahul", "city": "Cahul", "kind": "public", "url": null },
+      { "abbr": "USAB", "name_ro": "Universitatea de Stat «Alecu Russo» din Bălți", "city": "Bălți", "kind": "public", "url": null },
+      { "abbr": "USAT", "name_ro": "Universitatea de Stat din Taraclia", "city": "Taraclia", "kind": "public", "url": null }
+    ],
+    "authorities": [
+      { "name": "Ministerul Educației și Cercetării al Republicii Moldova", "role": "госполитика в образовании и науке: учебные программы, аттестация, высшее образование", "url": "https://edu.gov.md" },
+      { "name": "Guvernul Republicii Moldova", "role": "утверждает стратегии и бюджеты образования", "url": "https://gov.md" }
+    ],
+    "quality_assurance": {
+      "name": "Agenția Națională de Asigurare a Calității în Educație și Cercetare (ANACEC)",
+      "note": "аккредитация программ и учреждений; официальный адрес в этом прогоне не проверялся (не открывался)",
+      "url": null
+    },
+    "baccalaureate": {
+      "note": "итоговый экзамен после лицея, обязателен для поступления в высшее учебное заведение",
+      "session_dates": "основная сессия — лето (июнь–июль), повторная — осень",
+      "url": "https://edu.gov.md"
+    },
+    "programs": [
+      { "name": "Erasmus+ (мобильность студентов и преподавателей)", "kind": "международная программа ЕС", "period": "программный период 2021–2027", "note": "молдавские вузы участвуют в мобильности и проектах; участие подтверждается на странице программы", "url": "https://erasmus-plus.ec.europa.eu" }
+    ],
+    "school_system": {
+      "note": "структура: învățământ primar (1–4), gimnaziu (5–9), liceu (10–12); профессионально-техническое образование после gimnaziu/liceu. Дошкольное образование — creșă și grădiniță",
+      "source": "https://edu.gov.md"
+    }
+  },
+  "it": {
+    "institutions": [
+      { "name": "Ministerul Educației și Cercetării", "role": "курирует цифровизацию образования и IT-направления в вузах", "url": "https://edu.gov.md" },
+      { "name": "Guvernul Republicii Moldova", "role": "электронные публичные услуги, цифровая повестка", "url": "https://gov.md" },
+      { "name": "Agenția Servicii Publice", "role": "электронные выписки из госреестров", "url": "https://asp.gov.md" }
+    ],
+    "services": [
+      { "name": "BNM: официальные курсы валют в XML", "note": "машинально читаемый выпуск: ValCurs → Valute → CharCode/Nominal/Value; портал забирает его напрямую", "url": "https://www.bnm.md/ro/official_exchange_rates" },
+      { "name": "ASP: публичные реестры", "note": "проверка юрлиц, недвижимости, актов гражданского состояния", "url": "https://asp.gov.md" }
+    ],
+    "programs": [
+      { "name": "IT-направления в университетах (USM, UTM, USMF, ASEM)", "period": "licență 3 года, master 2 года", "note": "перечень программ и набор — на сайтах вузов; подтверждено, что сайты вузов открыты 12.11.2026", "url": "https://utm.md" }
+    ],
+    "cyber": [
+      { "name": "cert.gov.md", "role": "домен отвечает (страница-заглушка «Coming Soon» на 12.11.2026) — как рабочий канал информации пока не используется", "url": "https://cert.gov.md" }
+    ],
+    "market": {
+      "operators": [
+        { "name": "Moldtelecom", "url": "https://moldtelecom.md" },
+        { "name": "Orange Moldova", "url": "https://orange.md" }
+      ]
+    },
+    "registry": {
+      "name": "IANA Root Zone Database — делегирование .md",
+      "note": "официальная запись о том, кто управляет национальной доменной зоной .md; обновляется IANA",
+      "url": "https://www.iana.org/domains/root/db/md.html"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {"unit":"Ocnita","unit_id":6200,"name":"Frunza","level":"oras","uat_id":6202,"villages":1},
+  {"unit":"Ocnita","unit_id":6200,"name":"Ocnita","level":"oras","uat_id":6201,"villages":1},
+  {"unit":"Ocnita","unit_id":6200,"name":"Otaci","level":"oras","uat_id":6203,"villages":1},
+  {"unit":"Ocnita","unit_id":6200,"name":"Birladeni","level":"comuna","uat_id":6210,"villages":3},
+  {"unit":"Ocnita","unit_id":6200,"name":"Birnova","level":"sat","uat_id":6213,"villages":1},
+  {"unit":"Ocnita","unit_id":6200,"name":"Calaraseuca","level":"comuna","uat_id":6214,"villages":2},
+  {"unit":"Ocnita","unit_id":6200,"name":"Clocusna","level":"sat","uat_id":6219,"villages":1},
+  {"unit":"Ocnita","unit_id":6200,"name":"Corestauti","level":"comuna","uat_id":6220,"villages":2},
+  {"unit":"Ocnita","unit_id":6200,"name":"Dingeni","level":"comuna","uat_id":6222,"villages":2},
+  {"unit":"Ocnita","unit_id":6200,"name":"Girbova","level":"sat","uat_id":6224,"villages":1},
+  {"unit":"Ocnita","unit_id":6200,"name":"Grinauti-Moldova","level":"comuna","uat_id":6226,"villages":3},
+  {"unit":"Ocnita","unit_id":6200,"name":"Hadarauti","level":"sat","uat_id":6228,"villages":1},
+  {"unit":"Ocnita","unit_id":6200,"name":"Lencauti","level":"comuna","uat_id":6229,"villages":2},
+  {"unit":"Ocnita","unit_id":6200,"name":"Lipnic","level":"comuna","uat_id":6231,"villages":2},
+  {"unit":"Ocnita","unit_id":6200,"name":"Mereseuca","level":"sat","uat_id":6233,"villages":1},
+  {"unit":"Ocnita","unit_id":6200,"name":"Mihalaseni","level":"comuna","uat_id":6234,"villages":2},
+  {"unit":"Ocnita","unit_id":6200,"name":"Naslavcea","level":"sat","uat_id":6236,"villages":1},
+  {"unit":"Ocnita","unit_id":6200,"name":"Ocnita","level":"comuna","uat_id":6237,"villages":2},
+  {"unit":"Ocnita","unit_id":6200,"name":"Sauca","level":"sat","uat_id":6239,"villages":1},
+  {"unit":"Ocnita","unit_id":6200,"name":"Unguri","level":"sat","uat_id":6240,"villages":1},
+  {"unit":"Ocnita","unit_id":6200,"name":"Valcinet","level":"comuna","uat_id":6241,"villages":2}
+]
